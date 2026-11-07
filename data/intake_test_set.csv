@@ -1,0 +1,46 @@
+id,category,message,clarification,gold_type,gold_department,acceptable_types,expected_follow_up,notes
+T01,clear,"pothole on centre st right by the jackson sq T stop, almost wrecked my tire!!",,Request for Pothole Repair,PWDx,Request for Pothole Repair,0,typos/lowercase
+T02,clear,我家楼下的路灯坏了一个星期了，晚上很黑 (in front of 42 Bowdoin St),,Street Light Outages,PWDx,Street Light Outages,0,Chinese
+T03,clear,"No recogieron la basura en mi calle este martes, todas las bolsas siguen en la acera. Adams St, Dorchester",,Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,0,Spanish
+T04,clear,I need to get rid of an old couch and a dresser. How do I schedule a pickup?,,Schedule a Bulk Item Pickup,PWDx,Schedule a Bulk Item Pickup|Schedule a Bulk Item Pickup SS,0,two near-duplicate types
+T05,clear,Can someone come take away my old mattress? It's wrapped in plastic on the curb.,,Mattress_Pickup,PWDx,Mattress_Pickup,0,
+T06,clear,My neighbors leave open trash bags on the sidewalk all week instead of using barrels.,,Improper Storage of Trash (Barrels),PWDx,Improper Storage of Trash (Barrels),0,
+T07,clear,Someone dumped a pile of old tires and junk in the empty lot on Blue Hill Ave overnight.,,Illegal Dumping,PWDx,Illegal Dumping|Trash on Vacant Lot|Construction Debris,0,
+T08,clear,"The store on the corner never shoveled their sidewalk, it's a sheet of ice and my mom almost fell.",,Unshoveled Sidewalk,PWDx,Unshoveled Sidewalk,0,
+T09,clear,"Dead raccoon in the middle of Washington St, it's been there 2 days.",,Pick up Dead Animal,PWDx,Pick up Dead Animal,0,
+T10,clear,"The street is covered in broken glass and litter after the weekend, can someone come sweep it?",,Requests for Street Cleaning,PWDx,Requests for Street Cleaning|CE Collection,0,
+T11,clear,We just moved in and there's no recycling bin at our address. Can we get one?,,Request for Recycling Cart,PWDx,Request for Recycling Cart,0,
+T12,clear,A car has been parked right in front of the fire hydrant on my street all day.,,Parking Enforcement,BTDT,Parking Enforcement,0,mentions hydrant but is a parking issue
+T13,clear,Someone keeps parking across my driveway and I can't get my car out for work,,Parking Enforcement,BTDT,Parking Enforcement,0,
+T14,clear,Silver Honda with flat tires and expired plates hasn't moved in over a month on Dorchester Ave.,,Abandoned Vehicles,BTDT,Abandoned Vehicles,0,
+T15,clear,The traffic light at Mass Ave and Columbus is stuck flashing red in every direction.,,Traffic Signal Inspection,BTDT,Traffic Signal Inspection|Traffic Signal Repair,0,
+T16,clear,The stop sign at the corner of Elm and Pine got knocked over.,,Sign Repair,BTDT,Sign Repair|Missing Sign,0,
+T17,clear,"We really need a crosswalk painted near the elementary school on Walk Hill St, kids cross there every morning.",,New Sign  Crosswalk or Pavement Marking,BTDT,New Sign  Crosswalk or Pavement Marking,0,
+T18,clear,seeing rats running around the alley behind the restaurants on Hanover St every night,,Rodent Activity,ISD,Rodent Activity,0,outdoor rodents
+T19,clear,My landlord still hasn't turned the heat on and it's 50 degrees in my apartment.,,Heat - Excessive  Insufficient,ISD,Heat - Excessive  Insufficient,0,
+T20,clear,There's black mold all over the bathroom ceiling and the landlord won't do anything about it.,,Chronic Dampness/Mold,ISD,Chronic Dampness/Mold|Unsatisfactory Living Conditions,0,
+T21,clear,"We have mice in our kitchen, droppings in all the cabinets. We rent.",,Mice Infestation - Residential,ISD,Mice Infestation - Residential|Pest Infestation - Residential,0,indoor rodents
+T22,clear,The house next door is doing a full gut renovation and there's no building permit posted anywhere.,,Work w/out Permit,ISD,Work w/out Permit,0,
+T23,clear,The construction crew at the building site next door starts jackhammering at 5:30am on Sundays.,,Working Beyond Hours,ISD,Working Beyond Hours|Work Hours-Loud Noise Complaints,0,ISD vs PWDx overlap
+T24,clear,Saw a cockroach crawling on the counter at the pizza place on Tremont St.,,Unsanitary Conditions - Establishment,ISD,Unsanitary Conditions - Establishment|Unsanitary Conditions - Food|Food Alert - Unconfirmed,0,v2: added Food Alert - Unconfirmed (its real case titles include 'Unsanitary Conditions - Food'; same dept and queue)
+T25,clear,A huge tree branch came down in the storm and is blocking the whole sidewalk.,,Tree Emergencies,PARK,Tree Emergencies|Tree Maintenance Requests,0,
+T26,clear,"The street tree in front of my house really needs trimming, the branches are hanging over the road.",,Tree Maintenance Requests,PARK,Tree Maintenance Requests,0,
+T27,clear,Can the city plant a tree in the empty tree pit in front of my building?,,New Tree Requests,PARK,New Tree Requests,0,
+T28,clear,"The swing at the Ringer Park playground is broken, the chain snapped.",,Equipment Repair,PARK,Equipment Repair,0,
+T29,clear,The grass at the neighborhood park hasn't been mowed in weeks and the paths are full of litter.,,Ground Maintenance,PARK,Ground Maintenance,0,
+T30,ambiguous,The light on my corner is broken.,"It's the streetlight on the pole, not the traffic light. It's just dark.",Street Light Outages,PWDx,Street Light Outages,1,street light vs traffic signal (PWDx vs BTDT)
+T31,ambiguous,There's trash everywhere on my street.,"The city truck didn't come on our pickup day, all the bags are still on the curb.",Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,Missed Trash/Recycling/Yard Waste/Bulk Item,1,many trash-related types
+T32,ambiguous,I want to report a problem with the sidewalk in front of my house.,"The concrete slabs are cracked and lifted up, people keep tripping.",Sidewalk Repair (Make Safe),PWDx,Sidewalk Repair (Make Safe)|Sidewalk Repair,1,repair vs snow
+T33,ambiguous,There's a car problem on my street.,Same car has been sitting there for 3 weeks with no plates and a flat tire.,Abandoned Vehicles,BTDT,Abandoned Vehicles,1,parking vs abandoned vehicle
+T34,clear,My landlord won't fix anything in my apartment.,,Unsatisfactory Living Conditions,ISD,Unsatisfactory Living Conditions|Maintenance Complaint - Residential|Unsatisfactory Utilities - Electrical  Plumbing,0,"v2: moved from ambiguous; all candidates route to ISD Housing, so rule 3 says no follow-up is needed"
+T35,ambiguous,The tree outside is a problem.,It's leaning a lot after the wind and looks like it could fall on the house.,Tree Emergencies,PARK,Tree Emergencies|Tree Maintenance Requests,1,tree emergency vs maintenance vs new tree
+T36,other_dept,A fire hydrant is gushing water all over Beacon St.,,Fire Hydrant,BWSC,Fire Hydrant,0,BWSC
+T37,other_dept,The storm drain on my corner is clogged with leaves and the street floods every time it rains.,,Catchbasin,BWSC,Catchbasin|Roadway Flooding,0,BWSC
+T38,other_dept,Found a used needle in the sandbox at the playground.,,Needle Pickup,GEN,Needle Pickup,0,GEN
+T39,other_dept,My neighbors blast music until 2am every weekend.,,Loud Parties/Music/People,INFO,Loud Parties/Music/People,0,INFO
+T40,other_dept,Someone spray painted graffiti all over the side of the brick building on my block.,,Graffiti Removal,PROP,Graffiti Removal|PWD Graffiti,0,PROP vs PWDx
+T41,not_311,What time does the Copley library open on Saturday?,,UNCLEAR,NONE,UNCLEAR,1,should not force a type
+T42,ambiguous,The light on my corner is broken.,"It's the traffic light at the intersection, it's been stuck on red for an hour.",Traffic Signal Inspection,BTDT,Traffic Signal Inspection|Traffic Signal Repair,1,"v2: pair of T30, BTDT reading"
+T43,ambiguous,There's trash everywhere on my street.,People have been dumping old furniture and bags of garbage on the corner at night.,Illegal Dumping,PWDx,Illegal Dumping,1,"v2: pair of T31, dumping reading"
+T44,ambiguous,There's a car problem on my street.,A car is parked in the bike lane and blocking the crosswalk right now.,Parking Enforcement,BTDT,Parking Enforcement,1,"v2: pair of T33, parking reading"
+T45,ambiguous,There's a terrible smell coming from my building.,Sewage is backing up through the floor drain in our basement.,Sewage/Septic Back-Up,ISD,Sewage/Septic Back-Up,1,v2: replaces T34 as the ISD ambiguous case; trash vs dumpster vs sewage

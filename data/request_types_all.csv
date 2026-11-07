@@ -1,0 +1,590 @@
+type,department,count,reason,top_queue,n_queues,example_titles
+Parking Enforcement,BTDT,62973,Enforcement & Abandoned Vehicles,BTDT_Parking Enforcement,13,Parking Enforcement
+Improper Storage of Trash (Barrels),PWDx,20273,Code Enforcement,PWDx_Code Enforcement,22,Improper Storage of Trash (Barrels) | Shopping Cart
+Requests for Street Cleaning,PWDx,20128,Street Cleaning,PWDx_District 1C: Downtown,32,Requests for Street Cleaning | Street Cleaning | Pick up Dead Animal
+CE Collection,PWDx,17977,Street Cleaning,PWDx_District 1C: Downtown,21,CE Collection
+Schedule a Bulk Item Pickup,PWDx,11828,Sanitation,PWDx_Schedule a Bulk Item Pickup,1,Schedule a Bulk Item Pickup
+Needle Pickup,GEN,10710,Needle Program,GEN_Needle_Pickup,1,Needle Pickup | Needle Clean-up
+Missed Trash/Recycling/Yard Waste/Bulk Item,PWDx,10584,Sanitation,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,3,Missed Trash: District 07 | Missed Trash: District 02 | Missed Trash: District 06
+Poor Conditions of Property,PWDx,8643,Code Enforcement,PWDx_Code Enforcement,18,Poor Conditions of Property | Student Move-in CE Violation | WEEDS
+Mattress_Pickup,PWDx,8533,Sanitation,PWDx_WM_Mattress_Pickup,1,Mattress Pickup
+Tree Maintenance Requests,PARK,8063,Trees,PARK_Tree Maintenance Request,15,Tree Maintenance Requests | Tree Maintenance | Ground Maintenance: McCarthy Playground - BPRD
+Request for Pothole Repair,PWDx,7974,Highway Maintenance,PWDx_Roadway Repair_ARP_Resurfacing,32,Request for Pothole Repair | Pothole | SINKHOLE
+Schedule a Bulk Item Pickup SS,PWDx,7409,Sanitation,PWDx_Schedule a Bulk Item Pickup,1,Schedule Bulk Item Pickup | SCH 6/23 Schedule Bulk Item Pickup
+Pick up Dead Animal,PWDx,7195,Street Cleaning,PWDx_District 04: Allston/Brighton,17,Pick up Dead Animal
+Sidewalk Repair (Make Safe),PWDx,4772,Highway Maintenance,PWDx_Sidewalk Repair,33,Sidewalk Repair (Make Safe) | Sidewalk (Make Safe) | BRICKS
+Sign Repair,BTDT,4770,Signs & Signals,BTDT_Sign Shop_Sign Installation,19,Sign Repair | Sign Repair**Bike lane delneator
+Abandoned Vehicles,BTDT,4736,Enforcement & Abandoned Vehicles,BTDT_AVRS Interface Queue,6,Abandoned Vehicles | Abandoned Vehicles: Scooter/Moped | Abandoned Vehicles: Motorcycle
+Rodent Activity,ISD,4673,Environmental Services,ISD_Environmental Services (INTERNAL),6,Rodent Activity | SCH2/1Rodent Activity | SCH2/6Rodent Activity
+Recycling Cart Return,PWDx,4140,Recycling,PWDx_Recycling Sent to Contractor,3,Recycling Cart Return
+Request for Recycling Cart,PWDx,4079,Recycling,PWDx_Recycling Sent to Contractor,3,Request for Recycling Cart
+Street Light Outages,PWDx,3821,Street Lights,PWDx_Street Light Outages,14,Street Light Outages | Street Light Outage | Street Light Outages printed DP
+Traffic Signal Inspection,BTDT,3744,Signs & Signals,BTDT_Traffic Signal_Repair,15,Traffic Signal Inspection
+Unshoveled Sidewalk,PWDx,3706,Code Enforcement,PWDx_Code Enforcement,13,Unshoveled Sidewalk | CONE
+Animal Generic Request,INFO,3487,Animal Issues,INFO01_GenericeFormforOtherServiceRequestTypes,2,Animal Generic Request
+Ground Maintenance,PARK,3070,Park Maintenance & Safety,PARK_Maintenance_Region 1,23,Ground Maintenance | Ground Maintenance: --Not in list-- - BPRD | Ground Maintenance: Ronan Park - BPRD
+Illegal Dumping,PWDx,2978,Code Enforcement,PWDx_Code Enforcement,16,Illegal Dumping
+New Tree Requests,PARK,2563,Trees,PARK_New Tree Requests,6,New Tree Requests | New Tree Request
+Graffiti Removal,PROP,2449,Graffiti,PROP_GRAF_GraffitiRemoval,1,Graffiti Removal | Graffiti: Ward 10  1002  Other | Graffiti: 10  1002  Other
+Sticker Request,PWDx,2434,Recycling,PWDx_Sticker Request,1,Sticker Request
+Unsatisfactory Living Conditions,ISD,2368,Housing,ISD_Housing (INTERNAL),5,Unsatisfactory Living Conditions | DISP Unsatisfactory Living Conditions | SCH 9/9 Unsatisfactory Living Conditions
+Equipment Repair,PARK,2363,Park Maintenance & Safety,PARK_Maintenance_Trades,23,Equipment Repair | Park Equipment Repair | Equipment Repair: Boston Common - BPRD
+Empty Litter Basket,PWDx,2173,Highway Maintenance,PWDx_District 1C: Downtown,21,Empty Litter Basket | Missed Trash | Yard Waste (3 bags)
+Pest Infestation - Residential,ISD,1824,Housing,ISD_Environmental Services (INTERNAL),5,Pest Infestation - Residential | DISP Pest Infestation - Residential | SCH3/19Pest Infestation - Residential
+Requests for Street Cleaning,INFO,1796,Street Cleaning,INFO_Reallocation From Dept,15,Requests for Street Cleaning | Street Cleaning | Ground Maintenance: Boston Common - BPRD
+Request for Pothole Repair,INFO,1292,Highway Maintenance,INFO01_GenericeFormforOtherServiceRequestTypes,8,Request for Pothole Repair | Pothole
+Request for Pothole Repair,BWSC,1269,Highway Maintenance,BWSC_All Cases,2,Request for Pothole Repair | Pothole | SINKHOLE
+Contractor Complaints,PWDx,1095,Highway Maintenance,PWDx_Contractor Complaints,14,Contractor Complaints | Request for Street Cleaning
+New Sign  Crosswalk or Pavement Marking,BTDT,934,Signs & Signals,BTDT_Engineering_New Sign and Pavement Marking Requests,13,New Sign  Crosswalk or Pavement Marking
+Abandoned Bicycle,BTDT,901,Abandoned Bicycle,BTDT_Abandoned Bicycle,4,Abandoned Bicycle | Abandoned Bicycle: Scooter/Moped | Abandoned Bicycle: Motorcycle
+Work w/out Permit,ISD,893,Building,ISD_Building (INTERNAL),4,Work w/out Permit
+Contractors Complaint,ISD,866,Building,ISD_Building (INTERNAL),4,Contractors Complaint
+PWD Graffiti,PWDx,857,Highway Maintenance,PWDx_Graffiti,24,PWD Graffiti | BLACK PAINT | POWER WASH
+Request for Snow Plowing,PWDx,831,Street Cleaning,PWDx_District 07: South Dorchester,17,Request for Snow Plowing
+General Lighting Request,PWDx,783,Street Lights,PWDx_Street Light_General Lighting Request,8,General Lighting Request | PRINTED : General Lighting Request  --  N.M. | Printed - Break Out & Spin Post
+Pick up Dead Animal,INFO,755,Street Cleaning,INFO_Reallocation From Dept,11,Pick up Dead Animal | Mass DCR
+Heat - Excessive  Insufficient,ISD,749,Housing,ISD_Housing (INTERNAL),2,Heat - Excessive  Insufficient | DISP Heat - Excessive  Insufficient | DISPHeat - Excessive  Insufficient
+Tree Emergencies,PARK,727,Trees,PARK_Tree Emergencies,4,Tree Emergencies
+Loud Parties/Music/People,INFO,678,Noise Disturbance,INFO01_GenericeFormforOtherServiceRequestTypes,1,Loud Parties/Music/People
+Requests for Traffic Signal Studies or Reviews,BTDT,673,Traffic Management & Engineering,BTDT_Engineering_Request for Traffic Signal Study or Review,7,Requests for Traffic Signal Studies or Reviews
+Maintenance Complaint - Residential,ISD,637,Housing,ISD_Housing (INTERNAL),5,Maintenance Complaint - Residential | DISP Maintenance Complaint - Residential | SCH 9/19 Maintenance Complaint - Residential
+Ground Maintenance,INFO,635,Park Maintenance & Safety,INFO_Mass DCR,11,Ground Maintenance | Ground Maintenance: --Not in list-- - BPRD | Ground Maintenance: Richardson Square - DCR
+Transportation General Request,BTDT,601,Administrative & General Requests,BTDT_Administration,14,Transportation General Request
+Traffic Signal Inspection,INFO,583,Signs & Signals,INFO_Mass DCR,8,Traffic Signal Inspection
+Working Beyond Hours,ISD,579,Building,ISD_Building (INTERNAL),2,Working Beyond Hours
+Public Works General Request,PWDx,576,Administrative & General Requests,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,38,Public Works General Request | Pick up Dead Animal | WEEDS
+Catchbasin,BWSC,571,Catchbasin,BWSC_All Cases,2,Catchbasin
+Unsanitary Conditions - Establishment,ISD,564,Health,ISD_Health (INTERNAL),7,Unsanitary Conditions - Establishment | SCH3/20Unsanitary Conditions - Establishment | SCH 11/15 Unsanitary Conditions - Establishment
+Building Inspection Request,ISD,556,Building,ISD_Building (INTERNAL),7,Building Inspection Request | SCH1/31Building Inspection Request | SCH2/20Building Inspection Request
+Electrical,ISD,480,Building,ISD_Electrical,3,Electrical | SCH4/2Electrical | No power/electricity
+Unsafe Dangerous Conditions,ISD,453,Building,ISD_Building (INTERNAL),7,Unsafe/Dangerous Conditions | SCH 5/28 Unsafe/Dangerous Conditions | DISP6/6Unsafe/Dangerous Conditions
+Sign Repair,INFO,447,Signs & Signals,INFO_MBTA,10,Sign Repair | Request for Pothole Repair
+Roadway Repair,PWDx,430,Highway Maintenance,PWDx_Roadway Repair,14,Roadway Repair | TESTING
+General Comments For a Program or Policy,BTDT,423,Employee & General Comments,BTDT_General Comments,13,BTDT: Complaint | BTDT: Comment | BTDT: Compliment
+Equipment Repair,INFO,412,Park Maintenance & Safety,INFO_Mass DCR,9,Equipment Repair | Equipment Repair: Johnson Park - DCR | Park Equipment Repair
+Street Light Knock Downs,PWDx,386,Street Lights,PWDx_Street Light Knock Downs,8,Street Light Knock Downs | Street Light Knock Down | PRINTED : Street light Knockdown  --  N.M
+General Comments For a Program or Policy,PWDx,363,Employee & General Comments,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,26,PublicWorks: Complaint | PublicWorks: Comment | PublicWorks: Compliment
+BWSC General Request,BWSC,356,Administrative & General Requests,BWSC_All Cases,1,General Request
+Mice Infestation - Residential,ISD,345,Housing,ISD_Housing (INTERNAL),3,Mice Infestation - Residential | SCH 8/20 Mice Infestation - Residential | SCH1/17Mice Infestation - Residential
+Sidewalk Repair (Make Safe),INFO,344,Highway Maintenance,INFO_Mass DCR,11,Sidewalk Repair (Make Safe) | Sidewalk (Make Safe) | Sidewalk Repair (Make Safe)//PRINTED //
+Pick up Dead Animal,PARK,313,Street Cleaning,PARK_Maintenance_Region 1,12,Pick up Dead Animal | Ground Maintenance: Boston Common - BPRD | Ground Maintenance: DeFilippo Playground - BPRD
+Chronic Dampness/Mold,ISD,290,Housing,ISD_Housing (INTERNAL),1,Chronic Dampness/Mold | SCH 9/6 Chronic Dampness/Mold | SCH 10/28 Chronic Dampness/Mold
+Tree Maintenance Requests,PWDx,284,Trees,PWDx_Code Enforcement,17,Tree Maintenance Requests | Tree Maintenance | WEEDS
+Missing Sign,BTDT,279,Signs & Signals,BTDT_Sign Shop_Sign Installation,10,Missing Sign
+Short Term Rental,ISD,278,Housing,ISD_Housing_ShortTermRental,5,Short Term Rental | Housing | SCH7/9Short Term Rental
+Street Light Outages,INFO,275,Street Lights,INFO_Mass DCR,10,Street Light Outages | Street Light Outages//contractor sent to queue// | Street Light Outages/Contractor Light.
+Fire Hydrant,BWSC,266,Fire Hydrant,BWSC_All Cases,1,Fire Hydrant
+Major System Failure,PWDx,265,Street Lights,PWDx_Major System Failure,2,Major System Failure | Major System Failure printed | Major System Failure /Gas Leak
+Requests for Street Cleaning,PARK,263,Street Cleaning,PARK_Maintenance_Region 1,15,Requests for Street Cleaning | Street Cleaning | Ground Maintenance: Boston Common - BPRD
+Protection of Adjoining Property,ISD,247,Building,ISD_Building (INTERNAL),4,Protection of Adjoining Property
+Sidewalk Repair (Make Safe),BWSC,247,Highway Maintenance,BWSC_All Cases,2,Sidewalk Repair (Make Safe) | Sidewalk (Make Safe)
+Sidewalk Cover / Manhole,BWSC,245,Sidewalk Cover / Manhole,BWSC_All Cases,1,Sidewalk Cover / Manhole
+Rodent Activity,PWDx,240,Environmental Services,PWDx_Code Enforcement,19,Rodent Activity | Pick up Dead Animal | POWER WASH
+Food Alert - Confirmed,ISD,236,Health,ISD_Health (INTERNAL),1,Food Alert - Confirmed | Unsanitary Conditions-Employees
+Park Improvement Requests,PARK,236,Park Maintenance & Safety,PARK_Park Improvement Requests,9,Park Improvement Requests | Park Improvement: Boston Common - BPRD | Park Improvement: Ringer Playground - BPRD
+Empty Litter Basket,PARK,234,Highway Maintenance,PARK_Maintenance_Region 1,8,Empty Litter Basket | Ground Maintenance: Peters Park - BPRD | Ground Maintenance: Commonwealth Avenue Mall - BPRD
+Unsanitary Conditions - Food,ISD,220,Health,ISD_Health (INTERNAL),3,Unsanitary Conditions - Food
+Tree Maintenance Requests,INFO,219,Trees,INFO_Mass DCR,11,Tree Maintenance Requests | Tree Maintenance | WEEDS
+Illegal Vending,PWDx,209,Code Enforcement,PWDx_Code Enforcement,1,Illegal Vending
+Parks Lighting/Electrical Issues,PWDx,208,Park Maintenance & Safety,PWDx_Street Light Outages,6,Parks Lighting/Electrical Issues | Parks Lighting Issue: Brophy Park - BPRD | Parks Lighting Issue:  -
+Parks Lighting/Electrical Issues,PARK,201,Park Maintenance & Safety,PARK_Maintenance_Lighting Electrical,7,Parks Lighting/Electrical Issues | Lighting/Electrical | Parks Lighting Issue: --Not in list-- - BPRD
+Unsatisfactory Utilities - Electrical  Plumbing,ISD,198,Housing,ISD_Housing (INTERNAL),2,Unsatisfactory Utilities - Electrical  Plumbing | SCH6/20Unsatisfactory Utilities - Electrical  Plumbing | DSP1/12Unsatisfactory Utilities - Electrical  Plumbing
+Construction Debris,PWDx,182,Code Enforcement,PWDx_Code Enforcement,2,Construction Debris
+PWD Graffiti,INFO,181,Highway Maintenance,INFO_Mass DCR,8,PWD Graffiti |  | POWER WASH
+General Comments For An Employee,PWDx,165,Employee & General Comments,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,17,PublicWorks: Complaint | PublicWorks: Compliment | PublicWorks: Comment
+Traffic Signal Repair,BTDT,165,Signs & Signals,BTDT_Traffic Signal_Graffiti,7,Illegal Graffiti | Traffic Signal Repair
+Maintenance - Homeowner,ISD,164,Building,ISD_Building (INTERNAL),4,Maintenance - Homeowner | SCH 5/16 Maintenance - Homeowner | SCH 7/2 Maintenance - Homeowner
+Utility Casting Repair,BWSC,160,Highway Maintenance,BWSC_Pothole,2,Utility Casting Repair
+General Traffic Engineering Request,BTDT,156,Traffic Management & Engineering,BTDT_Engineering_New Sign and Pavement Marking Requests,10,General Traffic Engineering Request
+Space Savers,PWDx,153,Sanitation,PWDx_District 03: North Dorchester,16,Space Savers
+Parking on Front/Back Yards (Illegal Parking),PWDx,150,Code Enforcement,PWDx_Code Enforcement,1,Parking on Front/Back Yards (Illegal Parking)
+PWD Graffiti,BTDT,149,Highway Maintenance,BTDT_Traffic Signal_Graffiti,6,PWD Graffiti | BTD
+Work Hours-Loud Noise Complaints,PWDx,137,Highway Maintenance,PWDx_Work Hours-Loud Noise Complaints,4,Work Hours-Loud Noise Complaints
+Food Alert - Unconfirmed,ISD,136,Health,ISD_Health (INTERNAL),1,Food Alert - Unconfirmed | Unsanitary Conditions - Food | Unsanitary Condition Food
+Pavement Marking Inspection,BTDT,130,Operations,BTDT_Sign Shop_Sign Installation,8,Pavement Marking Inspection
+Parks General Request,PARK,129,Administrative & General Requests,PARK_Maintenance_Region 2,20,Parks General Request | Equipment Repair: Back Bay Fens - BPRD | Ground Maintenance: Ronan Park - BPRD
+Pest Infestation - Residential,PWDx,128,Housing,PWDx_Code Enforcement,2,Pest Infestation - Residential
+Empty Litter Basket,INFO,123,Highway Maintenance,INFO_Mass DCR,8,Empty Litter Basket | Ground Maintenance: Titus Sparrow Park - BPRD
+Requests for Street Cleaning,BTDT,119,Street Cleaning,BTDT_BostonBikes,14,Requests for Street Cleaning | Street Cleaning
+Illegal Occupancy,ISD,116,Building,ISD_Building (INTERNAL),4,Illegal Occupancy
+CE Collection,INFO,113,Street Cleaning,INFO_Reallocation From Dept,9,CE Collection
+Pick up Dead Animal,ANML,112,Street Cleaning,ANML_General,1,Pick up Dead Animal
+Contractor Complaints,ISD,112,Highway Maintenance,ISD_Building (INTERNAL),3,Contractor Complaints
+Exceeding Terms of Permit,ISD,108,Building,ISD_Building (INTERNAL),4,Exceeding Terms of Permit
+Improper Storage of Trash (Barrels),INFO,105,Code Enforcement,INFO_Reallocation From Dept,9,Improper Storage of Trash (Barrels)
+Illegal Posting of Signs,PWDx,105,Code Enforcement,PWDx_Code Enforcement,4,Illegal Posting of Signs
+Sidewalk Repair (Make Safe),ISD,104,Highway Maintenance,ISD_Building (INTERNAL),3,Sidewalk Repair (Make Safe) | BRICKS | Sidewalk (Make Safe)
+Sidewalk Repair (Make Safe),BTDT,102,Highway Maintenance,BTDT_Sign Shop_Sign Installation,15,Sidewalk Repair (Make Safe)
+Illegal Rooming House,ISD,102,Building,ISD_Building (INTERNAL),2,Illegal Rooming House | SCH2/8Illegal Rooming House | SCH2/21Illegal Rooming House
+Animal Noise Disturbances,INFO,99,Animal Issues,INFO01_GenericeFormforOtherServiceRequestTypes,1,Animal Noise Disturbances
+Illegal Auto Body Shop,PWDx,97,Environmental Services,PWDx_Code Enforcement,2,Illegal Auto Body Shop
+Cross Metering - Sub-Metering,ISD,97,Housing,ISD_Housing (INTERNAL),1,Cross Metering - Sub-Metering | SCH1/19Cross Metering - Sub-Metering | SCH 3/15 Cross Metering - Sub-Metering
+Request for Litter Basket Installation,PWDx,96,Street Cleaning,PWDx_Request for Litter Basket Installation,1,Request for Litter Basket Installation
+Parks Lighting/Electrical Issues,INFO,92,Park Maintenance & Safety,INFO_Mass DCR,9,Parks Lighting/Electrical Issues | Parks Lighting Issue: Charlestown Naval Shipyard Park - BRA | Parks Lighting Issue: Southwest Corridor Park - DCR
+Knockdown Replacement,PWDx,89,Street Lights,PWDx_Street Light Knockdown Replacement,2,Knockdown Replacement | PRINTED : Knockdown Replacement  --  N.M. | Knockdown Replacement//PRINTED//
+Ground Maintenance,PWDx,89,Park Maintenance & Safety,PWDx_Code Enforcement,14,Ground Maintenance | Ground Maintenance: --Not in list-- - BPRD | Ground Maintenance: Golden Stairs - BPRD
+Sidewalk Repair (Make Safe),PARK,88,Highway Maintenance,PARK_Tree Maintenance Request,15,Sidewalk Repair (Make Safe) | Equipment Repair: Boston Common - BPRD | Equipment Repair: Public Garden - BPRD
+Automotive Noise Disturbance,INFO,88,Noise Disturbance,INFO01_GenericeFormforOtherServiceRequestTypes,1,Automotive Noise Disturbance
+Student Move-in Issues,PWDx,85,General Request,PWDx_Code Enforcement,6,Student Move-in Issues
+PWD Graffiti,PROP,85,Highway Maintenance,PROP_GRAF_GraffitiRemoval,1,PWD Graffiti | POWER WASH
+BWSC Pothole,BWSC,82,Pothole,BWSC_Pothole,1,BWSC Pothole
+Bed Bugs,ISD,78,Housing,ISD_Housing (INTERNAL),1,Bed Bugs | SCH3/19Bed Bugs | SCH3/15Bed Bugs
+Egress,ISD,77,Building,ISD_Building (INTERNAL),2,Egress
+Illegal Auto Body Shop,ISD,74,Environmental Services,ISD_Environmental Services (INTERNAL),3,Illegal Auto Body Shop
+Litter Basket Maintenance,PWDx,74,Highway Maintenance,PWDx_Litter Basket Maintenance,5,Litter Basket Maintenance
+Squalid Living Conditions,ISD,73,Housing,ISD_Housing (INTERNAL),3,Squalid Living Conditions | SCH2/13Squalid Living Conditions | SCH2/21Squalid Living Conditions
+No Utilities Residential - Water,ISD,73,Housing,ISD_Housing (INTERNAL),2,No Utilities Residential - Water | DSP3/14No Utilities Residential - Water | SCH1/23No Utilities Residential - Water
+Overflowing or Un-kept Dumpster,PWDx,71,Environmental Services,PWDx_Code Enforcement,2,Overflowing or Un-kept Dumpster
+Abandoned Building,ISD,71,Environmental Services,ISD_Building (INTERNAL),4,Abandoned Building | DSP2/20Abandoned Building
+Undefined Noise Disturbance,INFO,71,Generic Noise Disturbance,INFO01_GenericeFormforOtherServiceRequestTypes,1,Generic Noise Disturbance
+Sign Repair,PWDx,69,Signs & Signals,PWDx_Contractor Complaints,22,Sign Repair | ?
+Traffic Signal Repair,INFO,67,Signs & Signals,INFO01_GenericeFormforOtherServiceRequestTypes,6,Illegal Graffiti | BLACK PAINT | Traffic Signal Repair
+Unshoveled Sidewalk,PARK,67,Code Enforcement,PARK_Maintenance_Region 1,9,Unshoveled Sidewalk | Ground Maintenance: Franklin Park - BPRD | Ground Maintenance: Christopher Columbus Park - BPRD
+Street Light Outages,BTDT,66,Street Lights,BTDT_Traffic Signal_Repair,6,Street Light Outages
+Poor Conditions of Property,INFO,62,Code Enforcement,INFO_Encampments,12,Poor Conditions of Property
+Parking Enforcement,PWDx,62,Enforcement & Abandoned Vehicles,PWDx_Space Saver Removal,6,Parking Enforcement
+General Comments For a Program or Policy,PARK,60,Employee & General Comments,PARK_General Comments,11,PARKS: Complaint | PARKS: Comment | PARKS: Compliment
+Plumbing,ISD,59,Building,ISD_Plumbing,4,Plumbing | DISP6/27Plumbing
+Tree in Park,PARK,57,Trees,PARK_Tree in Park,3,Tree in Park | Tree In Park: Ringer Playground; Allston / Brighton | Tree In Park: Byrne Playground; Dorchester
+Requests for Street Cleaning,ISD,54,Street Cleaning,ISD_Building (INTERNAL),4,Requests for Street Cleaning | Street Cleaning
+General Comments For An Employee,BTDT,53,Employee & General Comments,BTDT_General Comments,8,BTDT: Complaint | BTDT: Compliment | PublicWorks: Complaint
+Contractor Complaints,INFO,52,Highway Maintenance,INFO01_GenericeFormforOtherServiceRequestTypes,7,Contractor Complaints
+Parking on Front/Back Yards (Illegal Parking),BTDT,52,Code Enforcement,BTDT_Parking Enforcement,5,Parking on Front/Back Yards (Illegal Parking)
+Work w/out Permit,INFO,51,Building,INFO_Reallocation From Dept,1,Work w/out Permit
+No Utilities Residential - Electricity,ISD,51,Housing,ISD_Housing (INTERNAL),2,No Utilities Residential - Electricity | SCH 5/22 No Utilities Residential - Electricity | DSP1/8No Utilities Residential - Electricity
+Public Works General Request,INFO,51,Administrative & General Requests,INFO_Reallocation From Dept,10,Public Works General Request | WEEDS
+Trash on Vacant Lot,PWDx,49,Environmental Services,PWDx_Code Enforcement,5,Trash on Vacant Lot
+Student Move-in Issues,INFO,46,General Request,"INFO03_Mobile ""Other"" Requests",3,Student Move-in Issues
+Utility Casting Repair,INFO,46,Highway Maintenance,INFO01_GenericeFormforOtherServiceRequestTypes,3,Utility Casting Repair
+Equipment Repair,PWDx,45,Park Maintenance & Safety,PWDx_Sidewalk Repair,14,Equipment Repair | Install new glass | Street Light Outage - Acorn in Public Garden.
+Contractor Complaints,BWSC,45,Highway Maintenance,BWSC_All Cases,2,Contractor Complaints
+Requests for Traffic Signal Studies or Reviews,INFO,44,Traffic Management & Engineering,INFO_Mass DCR,3,Requests for Traffic Signal Studies or Reviews | Mass DCR
+No-Tow Complaint Confirmation,PWDx,43,Administrative & General Requests,PWDx_District 10B: Roxbury,11,No-Tow Complaint Confirmation
+Requests for Street Cleaning,BWSC,43,Street Cleaning,BWSC_All Cases,1,Requests for Street Cleaning | Street Cleaning
+Unsanitary Conditions - Employees,ISD,42,Health,ISD_Health (INTERNAL),1,Unsanitary Conditions - Employees
+New Sign  Crosswalk or Pavement Marking,INFO,42,Signs & Signals,INFO_Mass DCR,4,New Sign  Crosswalk or Pavement Marking
+Poor Conditions of Property,ISD,42,Code Enforcement,ISD_Building (INTERNAL),4,Poor Conditions of Property | SCH2/27Poor Conditions of Property | SCH 9/4 Poor Conditions of Property
+Notification,ISD,41,Notification,ISD_Housing (INTERNAL),3,BWSC: Sanitary Sewer Overflow (SSO) | BWSC: Water Main Break | BWSC: Water Main Shutoff
+Street Light Knock Downs,INFO,41,Street Lights,INFO01_GenericeFormforOtherServiceRequestTypes,8,Street Light Knock Downs
+Graffiti Removal,INFO,40,Graffiti,INFO_Reallocation From Dept,5,Graffiti Removal
+Request for Pothole Repair,BTDT,39,Highway Maintenance,BTDT_Sign Shop_Sign Installation,8,Request for Pothole Repair | Pothole
+Contractors Complaint,PWDx,39,Building,PWDx_Contractor Complaints,5,Contractors Complaint
+Abandoned Vehicles,BPD,39,Enforcement & Abandoned Vehicles,BPD_Districts,1,Abandoned Vehicles | Abandoned Vehicles: Scooter/Moped | BPD: Traffic/Parking
+Rodent Activity,INFO,38,Environmental Services,INFO_Reallocation From Dept,9,Rodent Activity | Pick up Dead Animal
+StreetLight Pole WO,PWDx,38,Highway Maintenance,PWDx_Highway Construction General,4,CONCRETE | Street Light Pole WO | PRINTED  //    Street Light Pole WO --  N.M.
+Abandoned Vehicles,INFO,37,Enforcement & Abandoned Vehicles,INFO01_GenericeFormforOtherServiceRequestTypes,9,Abandoned Vehicles | Abandoned Vehicles: MBTA Complaint | Abandoned Vehicles: Wheelchair
+Sewage/Septic Back-Up,ISD,37,Housing,ISD_Housing (INTERNAL),3,Sewage/Septic Back-Up | DSP1/30Sewage/Septic Back-Up | DSP Sewage/Septic Back-Up
+Traffic Signal Repair,PWDx,37,Signs & Signals,PWDx_District 1C: Downtown,13,Illegal Graffiti
+Bicycle Issues,BTDT,36,Boston Bikes,BTDT_BostonBikes,1,Boston Bikes: Bikes - General; Complaint | Boston Bikes | Boston Bikes: Bikes - General; Crime
+Improper Storage of Trash (Barrels),PARK,35,Code Enforcement,PARK_Maintenance_Region 1,8,Improper Storage of Trash (Barrels) | Ground Maintenance: Polcari Park - BPRD | Ground Maintenance: Thetford Street Playground - BPRD
+Parking Enforcement,INFO,35,Enforcement & Abandoned Vehicles,INFO_Homeless Issue,7,Parking Enforcement
+Rodent Activity,ANML,34,Environmental Services,ANML_General,1,Rodent Activity
+Utility Casting Repair,PWDx,33,Highway Maintenance,PWDx_Utility Casting Repair,7,Utility Casting Repair
+Fire in Food Establishment,ISD,32,Health,ISD_Health (INTERNAL),2,Fire in Food Establishment
+Requests for Street Cleaning,GEN,31,Street Cleaning,GEN_Needle_Pickup,1,Requests for Street Cleaning | Street Cleaning
+Sign Repair,PARK,31,Signs & Signals,PARK_Carpentry,7,Sign Repair | Equipment Repair: Union Park Street Play Area - BPRD
+Requests for Street Cleaning,BHA,30,Street Cleaning,BHA_General,1,Requests for Street Cleaning
+Cemetery Maintenance Request,PARK,30,Cemetery,PARK_Cemetery Maintenance Request,2,Cemetery Maintenance Request
+Pole Compliance,PWDx,30,Street Lights,PWDx_STRL Pole Compliance,2,Pole Compliance
+PWD Graffiti,PARK,30,Highway Maintenance,PARK_Graffiti,4,PWD Graffiti | Ground Maintenance: Boston Common - BPRD | Equipment Repair: Roberts Playground - BPRD
+Request for Snow Plowing (Emergency Responder),PWDx,30,Street Cleaning,PWDx_District 03: North Dorchester,12,Request for Snow Plowing (Emergency Responder)
+Zoning,ISD,29,Building,ISD_Building (INTERNAL),1,Zoning
+Parking Meter Repairs,BTDT,28,Operations,BTDT_Broken Meter Complaints,1,Parking Meter Repairs
+Request for Snow Plowing,INFO,27,Street Cleaning,INFO_Reallocation From Dept,6,Request for Snow Plowing
+Parking Enforcement,ISD,27,Enforcement & Abandoned Vehicles,ISD_Administrative,3,Parking Enforcement
+Traffic Signal Inspection,PWDx,27,Signs & Signals,PWDx_Street Light Outages,11,Traffic Signal Inspection | Traffic Signal Inspection//MD CHEKCING OUT// | TAKEOVER ACOR N POLE THAT WAS KOED
+General Comments For An Employee,PARK,26,Employee & General Comments,PARK_General Comments,6,PARKS: Complaint | PARKS: Compliment | PARKS: Comment
+Upgrade Existing Lighting,PWDx,26,Street Lights,PWDx_Street Light_Upgrade Existing Lighting,3,Upgrade Existing Lighting | Upgrade Existing Lighting//gas sent to gas queue// | Upgrade Existing Lighting//requesting brighter lighting//
+Unshoveled Sidewalk,INFO,26,Code Enforcement,INFO_Mass DCR,6,Unshoveled Sidewalk
+Equipment Repair,BTDT,26,Park Maintenance & Safety,BTDT_Sign Shop_Sign Installation,8,Equipment Repair | Equipment Repair: Draper Playground - BPRD | Equipment Repair: Pine St. Park - BRA
+Rooftop & Mechanical Disturbances,INFO,26,Air Pollution Control,INFO01_GenericeFormforOtherServiceRequestTypes,2,Rooftop & Mechanical Disturbances
+Tree Maintenance Requests,DND,25,Trees,DND_General,1,Tree Maintenance Requests | Tree Maintenance
+Request for Pothole Repair,BHA,25,Highway Maintenance,BHA_General,1,Request for Pothole Repair | Pothole
+Parks General Request,INFO,25,Administrative & General Requests,INFO01_GenericeFormforOtherServiceRequestTypes,7,Parks General Request
+Overflowing or Un-kept Dumpster,ISD,24,Environmental Services,ISD_Environmental Services (INTERNAL),1,Overflowing or Un-kept Dumpster
+Traffic Signal Inspection,BPD,24,Signs & Signals,BPD_Districts,1,Traffic Signal Inspection
+Transportation General Request,PWDx,24,Administrative & General Requests,PWDx_Space Saver Removal,8,Transportation General Request
+Contractor Complaints,BTDT,24,Highway Maintenance,BTDT_Permits & Special Events,7,Contractor Complaints
+Rat Bite,ISD,23,Environmental Services,ISD_Environmental Services (INTERNAL),2,Rat Bite
+Overcrowding,ISD,23,Housing,ISD_Housing (INTERNAL),2,Overcrowding | SCH 9/19 Overcrowding | SCH2/8Overcrowding
+General Comments For a Program or Policy,INFO,22,Employee & General Comments,INFO_Reallocation From Dept,7,PublicWorks: Complaint | Other: Complaint | PublicWorks: Comment
+Public Works General Request,BTDT,22,Administrative & General Requests,BTDT_Sign Shop_Sign Installation,9,Public Works General Request
+Sidewalk Repair,PWDx,21,Highway Maintenance,PWDx_Highway Construction,2,Sidewalk Repair
+CE Collection,PARK,21,Street Cleaning,PARK_Maintenance_Region 1,7,CE Collection | Ground Maintenance: Chester Park - BPRD | Ground Maintenance: Charter St. Park - BPRD
+Install New Lighting,PWDx,20,Street Lights,PWDx_Street Light_Install New Lighting,2,Install New Lighting | PRINTED | Install New Lighting//pole replacement printed out for JH//
+Roadway Repair,BWSC,20,Highway Maintenance,BWSC_All Cases,2,Roadway Repair
+Poor Ventilation,ISD,20,Housing,ISD_Housing (INTERNAL),2,Poor Ventilation | SCH 5/22/2024 Poor Ventilation | SCH 09/26 Poor Ventilation
+Traffic Signal Repair,PROP,19,Signs & Signals,PROP_GRAF_GraffitiRemoval,1,Illegal Graffiti
+General Lighting Request,INFO,19,Street Lights,INFO_Eversource,6,General Lighting Request | High Stump of Base With Re-bar///Issued to MADOT
+Requests for Street Cleaning,BPD,19,Street Cleaning,BPD_Districts,1,Requests for Street Cleaning
+No-Tow Complaint Confirmation,BTDT,19,Administrative & General Requests,BTDT_Sign Shop_Sign Installation,4,No-Tow Complaint Confirmation
+Sidewalk Cover / Manhole,INFO,18,Sidewalk Cover / Manhole,INFO01_GenericeFormforOtherServiceRequestTypes,2,Sidewalk Cover / Manhole
+Rodent Activity,PARK,18,Environmental Services,PARK_Maintenance_Region 6,11,Rodent Activity | Ground Maintenance: Ramsay Park/Jim Rice Field - BPRD | Ground Maintenance: Allen Park - BPRD
+Contractors Complaint,BTDT,17,Building,BTDT_Administration,4,Contractors Complaint
+Work Hours-Loud Noise Complaints,ISD,17,Highway Maintenance,ISD_Building (INTERNAL),2,Work Hours-Loud Noise Complaints
+New Tree Requests,INFO,17,Trees,INFO_Mass DCR,5,New Tree Requests
+Needle Pickup,INFO,17,Needle Program,INFO_Encampments,6,Needle Pickup
+Abandoned Vehicles,PWDx,17,Enforcement & Abandoned Vehicles,PWDx_Code Enforcement,5,Abandoned Vehicles | Pick up Dead Animal | Abandoned Vehicles: Construction Vehicles
+Street Light Knock Downs,BTDT,17,Street Lights,BTDT_Traffic Signal_Repair,2,Street Light Knock Downs | Street Light Knock Downs//open control box Supervisor will send someone to close it// | Street Light Knock Down
+Ground Maintenance,BTDT,17,Park Maintenance & Safety,BTDT_Parking Lot_Municipal Parking Lot Complaints,5,Ground Maintenance | Ground Maintenance: --Not in list-- - BPRD | Ground Maintenance: Egleston Square - BPRD
+Pest Infestation - Residential,ANML,17,Housing,ANML_General,1,Pest Infestation - Residential
+Improper Storage of Trash (Barrels),BTDT,17,Code Enforcement,BTDT_Parking Enforcement,5,Improper Storage of Trash (Barrels)
+Illegal Dumping,INFO,17,Code Enforcement,INFO_Reallocation From Dept,6,Illegal Dumping
+Roadway Flooding,BWSC,17,Catchbasin,BWSC_All Cases,1,Roadway Flooding
+Dumpster & Loading Noise Disturbances,INFO,16,Neighborhood Services Issues,INFO01_GenericeFormforOtherServiceRequestTypes,1,Dumpster & Loading Noise Disturbances
+Short Term Rental,INFO,16,Housing,INFO_Reallocation From Dept,7,Short Term Rental
+Pick up Dead Animal,ISD,16,Street Cleaning,ISD_Environmental Services (INTERNAL),3,Pick up Dead Animal | Unsanitary Conditions
+Major System Failure,INFO,16,Street Lights,INFO_Reallocation From Dept,4,Major System Failure | Major System Failure (On Call) printed
+Short Term Rental,BPD,15,Housing,BPD_Districts,1,Short Term Rental
+Scanning Overcharge,ISD,15,Weights and Measures,ISD_Weights and Measures (INTERNAL),1,Scanning Overcharge
+Parks General Request,PWDx,15,Administrative & General Requests,PWDx_Street Light_General Lighting Request,8,Parks General Request | WEEDS
+Improper Storage of Trash (Barrels),ISD,15,Code Enforcement,ISD_Housing (INTERNAL),4,Improper Storage of Trash (Barrels)
+Contractors Complaint,INFO,15,Building,INFO_Reallocation From Dept,2,Contractors Complaint
+Ground Maintenance,BHA,15,Park Maintenance & Safety,BHA_General,1,Ground Maintenance | Ground Maintenance: Blue Hill Rock - BHA | Ground Maintenance: Sterling Square - BHA
+Unsatisfactory Living Conditions,PWDx,15,Housing,PWDx_Code Enforcement,2,Unsatisfactory Living Conditions
+Tree Maintenance Requests,BHA,15,Trees,BHA_General,1,Tree Maintenance Requests
+Sign Repair,ONS,15,Signs & Signals,ONS_SouthBoston,8,Sign Repair
+Unsafe Dangerous Conditions,PWDx,14,Building,PWDx_Code Enforcement,4,Unsafe/Dangerous Conditions
+City/State Snow Issues,INFO,14,Programs,INFO01_GenericeFormforOtherServiceRequestTypes,2,City/State Snow Issues
+Roadway Repair,INFO,14,Highway Maintenance,INFO01_GenericeFormforOtherServiceRequestTypes,6,Roadway Repair
+Misc. Snow Complaint,PWDx,14,Administrative & General Requests,PWDx_Snow Cases,1,Misc. Snow Complaint
+Poor Conditions of Property,BTDT,14,Code Enforcement,BTDT_Parking Enforcement,4,Poor Conditions of Property
+New Sign  Crosswalk or Pavement Marking,ONS,14,Signs & Signals,ONS_General,9,New Sign  Crosswalk or Pavement Marking
+Abandoned Bicycle,INFO,14,Abandoned Bicycle,INFO_BPHC,5,Abandoned Bicycle
+Municipal Parking Lot Complaints,BTDT,14,Parking Complaints,BTDT_Parking Lot_Municipal Parking Lot Complaints,2,Municipal Parking Lot Complaints
+New Tree Requests,PWDx,14,Trees,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,5,New Tree Requests
+No Utilities Residential - Gas,ISD,13,Housing,ISD_Housing (INTERNAL),1,No Utilities Residential - Gas | DSP1/18No Utilities Residential - Gas | DISP1/29No Utilities Residential - Gas
+Street Light Outages,PARK,13,Street Lights,PARK_Maintenance_Lighting Electrical,3,Street Light Outages | Street Light Outages//FLOOD LIGHT POLE MD NOTIFIED//
+Building Inspection Request,INFO,13,Building,INFO_Reallocation From Dept,4,Building Inspection Request
+Equipment Repair,BWSC,13,Park Maintenance & Safety,BWSC_All Cases,2,Equipment Repair | Equipment Repair: Peters Park - BPRD
+Missing Sign,INFO,12,Signs & Signals,INFO_Reallocation From Dept,3,Missing Sign
+CE Collection,BTDT,12,Street Cleaning,BTDT_Abandoned Bicycle,5,CE Collection
+Working Beyond Hours,INFO,12,Building,INFO_Reallocation From Dept,1,Working Beyond Hours
+Billing Complaint,BWSC,12,Billing,BWSC_All Cases,1,Billing Complaint
+Bridge Maintenance,PWDx,12,Bridge Maintenance,PWDx_Bridge Maintenance,1,Bridge Maintenance
+Public Works General Request,PARK,12,Administrative & General Requests,PARK_Tree Maintenance Request,7,Public Works General Request | WEEDS
+Rental Unit Delivery Conditions,ISD,12,Housing,ISD_Housing (INTERNAL),1,Rental Unit Delivery Conditions | SCH2/22Rental Unit Delivery Conditions | SCH 8/27 Rental Unit Delivery Conditions
+Abandoned Bicycle,PWDx,12,Abandoned Bicycle,PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,7,Abandoned Bicycle
+Empty Litter Basket,BHA,12,Highway Maintenance,BHA_General,1,Empty Litter Basket
+Pest Infestation - Residential,INFO,11,Housing,INFO_Reallocation From Dept,2,Pest Infestation - Residential
+Trash on Vacant Lot,ISD,11,Environmental Services,ISD_Environmental Services (INTERNAL),1,Trash on Vacant Lot
+Requests for Street Cleaning,ONS,11,Street Cleaning,ONS_BackBay_Fenway_MissionHill,7,Requests for Street Cleaning
+New Sign  Crosswalk or Pavement Marking,PWDx,11,Signs & Signals,PWDx_Contractor Complaints,6,New Sign  Crosswalk or Pavement Marking | Sidewalk Make Safe
+Illegal Posting of Signs,BTDT,10,Code Enforcement,BTDT_Sign Shop_Sign Installation,6,Illegal Posting of Signs
+Aircraft Noise Disturbance,INFO,10,Massport,INFO01_GenericeFormforOtherServiceRequestTypes,1,Aircraft Noise Disturbance
+Pigeon Infestation,INFO,10,Environmental Services,INFO_BPHC,3,Pigeon Infestation
+Planting,PARK,10,Park Maintenance & Safety,PARK_Maintenance_Horticulture,3,Planting:  - | Planting | Planting: Healy Playground - BPRD
+Tree Emergencies,INFO,10,Trees,INFO_Mass DCR,4,Tree Emergencies
+Pick up Dead Animal,BHA,10,Street Cleaning,BHA_General,1,Pick up Dead Animal
+Public Works General Request,BWSC,10,Administrative & General Requests,BWSC_All Cases,1,Public Works General Request | Sink Hole
+General Comments For An Employee,INFO,10,Employee & General Comments,INFO_Reallocation From Dept,4,PublicWorks: Complaint | PublicWorks: Compliment | Other: Compliment
+Equipment Repair,PROP,10,Park Maintenance & Safety,PROP_GRAF_GraffitiRemoval,1,Equipment Repair
+Unsafe Dangerous Conditions,INFO,10,Building,INFO_Reallocation From Dept,3,Unsafe/Dangerous Conditions
+Occupying W/Out A Valid CO/CI,ISD,9,Building,ISD_Building (INTERNAL),1,Occupying W/Out A Valid CO/CI
+Student Move-in Issues,BTDT,9,General Request,BTDT_Parking Enforcement,2,Student Move-in Issues
+Request for Pothole Repair,PARK,9,Highway Maintenance,PARK_Park Improvement Requests,6,Request for Pothole Repair
+Pigeon Infestation,ISD,9,Environmental Services,ISD_Environmental Services (INTERNAL),1,Pigeon Infestation
+Transportation General Request,DISB,9,Administrative & General Requests,DISB_HP Sign,2,Transportation General Request
+Catchbasin,INFO,9,Catchbasin,INFO_Mass DCR,2,Catchbasin
+Public Works General Request,ONS,9,Administrative & General Requests,ONS_HydePark,7,Public Works General Request
+Mechanical,ISD,9,Building,ISD_Building (INTERNAL),2,Mechanical
+Knockdown Replacement,BTDT,8,Street Lights,BTDT_Sign Shop_Sign Installation,4,Knockdown Replacement
+Abandoned Building,PWDx,8,Environmental Services,PWDx_Code Enforcement,1,Abandoned Building
+Parking Enforcement,BPD,8,Enforcement & Abandoned Vehicles,BPD_Districts,1,Parking Enforcement
+Request for Litter Basket Installation,PARK,8,Street Cleaning,PARK_Maintenance_Region 6,4,Request for Litter Basket Installation
+Phone Bank Service Inquiry,BTDT,8,Office of The Parking Clerk,BTDT_OPC_Phone Bank Service,1,Phone Bank Service Inquiry
+Poor Conditions of Property,PARK,7,Code Enforcement,PARK_Tree Maintenance Request,5,Poor Conditions of Property | Ground Maintenance: Mission Hill Playground - BPRD
+Ground Maintenance,ISD,7,Park Maintenance & Safety,ISD_Environmental Services (INTERNAL),2,Ground Maintenance: --Not in list-- - BPRD | Ground Maintenance: Ringer Playground - BPRD | Ground Maintenance: Charter St. Park - BPRD
+Protection of Adjoining Property,INFO,7,Building,INFO_Reallocation From Dept,3,Protection of Adjoining Property
+Graffiti Removal,PARK,7,Graffiti,PARK_Graffiti,2,Graffiti Removal | Graffiti: 19  1907  Gang
+Public Works General Request,ISD,7,Administrative & General Requests,ISD_Building (INTERNAL),2,Public Works General Request
+Illegal Auto Body Shop,INFO,7,Environmental Services,INFO01_GenericeFormforOtherServiceRequestTypes,2,Illegal Auto Body Shop
+Maintenance Complaint - Residential,PWDx,7,Housing,PWDx_Code Enforcement,1,Maintenance Complaint - Residential
+Valet Parking Problems,BTDT,7,Valet,BTDT_Parking Lot_Valet Parking Problems,1,Valet Parking Problems
+Item Price Missing,ISD,7,Weights and Measures,ISD_Weights and Measures (INTERNAL),2,Item Price Missing
+Mosquitoes (West Nile),INFO,7,Environmental Services,INFO_BPHC,2,Mosquitoes (West Nile)
+Mosquitoes (West Nile),ISD,7,Environmental Services,ISD_Environmental Services (INTERNAL),2,Mosquitoes (West Nile)
+No Utilities - Food Establishment - Water,ISD,7,Health,ISD_Health (INTERNAL),1,No Utilities - Food Establishment - Water
+New Sign  Crosswalk or Pavement Marking,DISB,7,Signs & Signals,DISB_General_Request,2,New Sign  Crosswalk or Pavement Marking
+Equipment Repair,ISD,7,Park Maintenance & Safety,ISD_Building (INTERNAL),2,Equipment Repair
+Unit Pricing Wrong/Missing,ISD,7,Weights and Measures,ISD_Weights and Measures (INTERNAL),1,Unit Pricing Wrong/Missing
+Request for Pothole Repair,ISD,7,Highway Maintenance,ISD_Administrative,2,Request for Pothole Repair
+Parks Lighting/Electrical Issues,BTDT,6,Park Maintenance & Safety,BTDT_Engineering_Request for Traffic Signal Study or Review,5,Parks Lighting/Electrical Issues
+Requests for Street Cleaning,PROP,6,Street Cleaning,PROP_GRAF_GraffitiRemoval,1,Requests for Street Cleaning
+Pickup/Clear Conduit,PWDx,6,Street Lights,PWDx_Street Light_Pickup_Clear Conduit,1,Pickup/Clear Conduit | Pickup/Clear Conduit printed
+No Price on Gas/Wrong Price,ISD,6,Weights and Measures,ISD_Weights and Measures (INTERNAL),1,No Price on Gas/Wrong Price
+Animal Generic Request,PWDx,6,Animal Issues,PWDx_District 05: South Boston,5,Animal Generic Request | Pick Up Dead Animals
+Ground Maintenance,DND,6,Park Maintenance & Safety,DND_General,1,Ground Maintenance | Ground Maintenance: Euston Path Rock - BPRD | Ground Maintenance: Dorchester North Burying Ground - BPRD
+Illegal Vending,ISD,6,Code Enforcement,ISD_Administrative,2,Illegal Vending
+Protection of Adjoining Property,PWDx,6,Building,PWDx_Code Enforcement,1,Protection of Adjoining Property
+Tree Maintenance Requests,BTDT,6,Trees,BTDT_Parking Lot_Municipal Parking Lot Complaints,1,Tree Maintenance Requests
+Sign Repair,ISD,6,Signs & Signals,ISD_Building (INTERNAL),2,Sign Repair
+Carbon Monoxide,ISD,6,Housing,ISD_Housing (INTERNAL),1,Carbon Monoxide | SCH4/9Carbon Monoxide | I&ECarbon Monoxide
+Poor Conditions of Property,ANML,6,Code Enforcement,ANML_General,1,Poor Conditions of Property
+Abandoned Vehicles,ISD,5,Enforcement & Abandoned Vehicles,ISD_Administrative,3,Abandoned Vehicles
+General Lighting Request,BTDT,5,Street Lights,BTDT_Traffic Signal_Repair,2,General Lighting Request | General Lighting Request//reallocated to BTD from 2nd shift//
+Graffiti Removal,PWDx,5,Graffiti,PWDx_Litter Basket Maintenance,5,Graffiti Removal
+General Comments For a Program or Policy,DISB,5,Employee & General Comments,DISB_General_Request,2,BTDT: Comment | BTDT: Complaint | Other: Compliment
+Illegal Auto Body Shop,BTDT,5,Environmental Services,BTDT_Parking Enforcement,1,Illegal Auto Body Shop
+Needle Pickup,PWDx,5,Needle Program,PWDx_Code Enforcement,4,Needle Pickup | Request for Street Cleaning
+Parking on Front/Back Yards (Illegal Parking),INFO,5,Code Enforcement,INFO_Reallocation From Dept,3,Parking on Front/Back Yards (Illegal Parking)
+No Utilities - Food Establishment - Sewer,ISD,5,Health,ISD_Health (INTERNAL),2,No Utilities - Food Establishment - Sewer
+Work Hours-Loud Noise Complaints,INFO,5,Highway Maintenance,INFO_Reallocation From Dept,5,Work Hours-Loud Noise Complaints
+Lead,ISD,5,Housing,ISD_Housing (INTERNAL),1,SCH10/9Lead | SCH1/12Lead | SCH2/20Lead
+Missed Trash/Recycling/Yard Waste/Bulk Item,INFO,5,Sanitation,INFO_Reallocation From Dept,2,"Missed ""Other"" Trash: District 1C | Missed Bulk Item Pickup: District 09 | Missed Trash/Recycling/Yard Waste/Bulk Item"
+Illegal Posting of Signs,ISD,5,Code Enforcement,ISD_Building (INTERNAL),3,Illegal Posting of Signs
+Rodent Activity,BTDT,5,Environmental Services,BTDT_Parking Enforcement,1,Rodent Activity
+Requests for Directional or Roadway Changes,BTDT,5,Traffic Management & Engineering,BTDT_Engineering_Request for Traffic Signal Study or Review,2,Directional or Roadway Changes
+Contractor Complaints,PARK,5,Highway Maintenance,PARK_Tree Maintenance Request,2,Contractor Complaints
+Equipment Repair,BPD,5,Park Maintenance & Safety,BPD_Districts,1,Equipment Repair
+Request for Snow Plowing,PARK,5,Street Cleaning,PARK_Maintenance_Region 1,4,Request for Snow Plowing
+Sign Repair,DISB,5,Signs & Signals,DISB_HP Sign,2,Sign Repair
+Unsanitary Conditions - Establishment,INFO,5,Health,INFO_Reallocation From Dept,3,Unsanitary Conditions - Establishment
+Illegal Dumping,BTDT,5,Code Enforcement,BTDT_Parking Enforcement,3,Illegal Dumping
+Trash on Vacant Lot,INFO,5,Environmental Services,INFO_Mass DCR,2,Trash on Vacant Lot
+Improper Storage of Trash (Barrels),BPD,5,Code Enforcement,BPD_Districts,1,Improper Storage of Trash (Barrels)
+Private Parking Lot Complaints,BTDT,5,Parking Complaints,BTDT_Parking Lot_PrivateParkingLotComplaints,1,Private Parking Lot Complaints
+CE Collection,BHA,4,Street Cleaning,BHA_General,1,CE Collection
+Construction Debris,BTDT,4,Code Enforcement,BTDT_Parking Enforcement,1,Construction Debris
+BWSC General Request,PWDx,4,Administrative & General Requests,PWDx_Sidewalk Repair,3,General Request
+Sidewalk Cover / Manhole,PWDx,4,Sidewalk Cover / Manhole,PWDx_Street Light_General Lighting Request,3,Sidewalk Cover / Manhole
+Transportation General Request,INFO,4,Administrative & General Requests,INFO_Mass DCR,3,Transportation General Request
+Missing Sign,PWDx,4,Signs & Signals,PWDx_Contractor Complaints,1,Missing Sign
+Litter Basket Maintenance,INFO,4,Highway Maintenance,INFO_Mass DCR,3,Litter Basket Maintenance
+Improper Storage of Trash (Barrels),BWSC,4,Code Enforcement,BWSC_All Cases,1,Improper Storage of Trash (Barrels)
+Traffic Signal Repair,PARK,4,Signs & Signals,PARK_Painting,2,Illegal Graffiti
+Street Light Outages,BHA,4,Street Lights,BHA_General,1,Street Light Outages | Street Light Outages//multiple lights out SCI will check out//
+No Utilities - Food Establishment - Flood,ISD,4,Health,ISD_Health (INTERNAL),1,No Utilities - Food Establishment - Flood
+Work Hours-Loud Noise Complaints,BTDT,4,Highway Maintenance,BTDT_Permits & Special Events,1,Work Hours-Loud Noise Complaints
+Parks General Request,ISD,4,Administrative & General Requests,ISD_Environmental Services (INTERNAL),2,Parks General Request
+Missed Trash/Recycling/Yard Waste/Bulk Item,PARK,4,Sanitation,PARK_Maintenance_Region 6,3,Missed Leaf or Yard Trash: District 1C | Missed Leaf or Yard Trash: District 1A | Ground Maintenance: Chester Park - BPRD
+Unsanitary Conditions - Establishment,PWDx,4,Health,PWDx_Code Enforcement,1,Unsanitary Conditions - Establishment
+Requests for Street Cleaning,ANML,4,Street Cleaning,ANML_General,1,Requests for Street Cleaning
+General Traffic Engineering Request,INFO,4,Traffic Management & Engineering,INFO_Mass DCR,3,General Traffic Engineering Request
+Rodent Activity,BPD,4,Environmental Services,BPD_Districts,1,Rodent Activity
+Sign Repair,BWSC,4,Signs & Signals,BWSC_All Cases,2,Sign Repair
+Sign Repair,BPD,4,Signs & Signals,BPD_Districts,1,Sign Repair
+Sidewalk Repair (Make Safe),BHA,4,Highway Maintenance,BHA_General,1,Sidewalk Repair (Make Safe)
+Equipment Repair,BHA,4,Park Maintenance & Safety,BHA_General,1,Equipment Repair | Equipment Repair: Horan Way Play Area - BHA
+Catchbasin,PWDx,4,Catchbasin,PWDx_Roadway Repair_ARP_Resurfacing,4,Catchbasin
+Exceeding Terms of Permit,INFO,4,Building,INFO_Reallocation From Dept,1,Exceeding Terms of Permit
+General Comments For a Program or Policy,ONS,4,Employee & General Comments,ONS_General,4,PublicWorks: Complaint | PublicWorks: Comment | PARKS: Complaint
+Transportation General Request,BPD,4,Administrative & General Requests,BPD_Districts,1,Transportation General Request
+Illegal Vending,INFO,4,Code Enforcement,INFO01_GenericeFormforOtherServiceRequestTypes,3,Illegal Vending
+Space Savers,BTDT,4,Sanitation,BTDT_Permits & Special Events,3,Space Savers
+General Comments For a Program or Policy,ISD,4,Employee & General Comments,ISD_Administrative,3,Other: Comment | Other: Complaint | PublicWorks: Comment
+Maintenance - Homeowner,PWDx,3,Building,PWDx_Code Enforcement,2,Maintenance - Homeowner
+Equipment Repair,ANML,3,Park Maintenance & Safety,ANML_General,1,Equipment Repair | Equipment Repair: Downer Avenue Playground - BPRD
+Parks General Request,BPD,3,Administrative & General Requests,BPD_Districts,1,Parks General Request
+Student Overcrowding,ISD,3,Housing,ISD_Housing (INTERNAL),1,Student Overcrowding
+Pavement Marking Inspection,INFO,3,Operations,INFO_Mass DOT,3,Pavement Marking Inspection
+Maintenance - Homeowner,INFO,3,Building,INFO_Reallocation From Dept,1,Maintenance - Homeowner
+Pavement Marking Inspection,PWDx,3,Operations,PWDx_Contractor Complaints,3,Pavement Marking Inspection
+Notification,BWSC,3,Notification,BWSC_All Cases,1,BWSC: Sanitary Sewer Overflow (SSO) | BWSC: Water Main Shutoff
+No-Tow Complaint Confirmation,INFO,3,Administrative & General Requests,INFO_Reallocation From Dept,2,No-Tow Complaint Confirmation
+No Utilities Residential - Water,BWSC,3,Housing,BWSC_All Cases,1,No Utilities Residential - Water
+Park Improvement Requests,INFO,3,Park Maintenance & Safety,INFO_Mass DCR,3,Park Improvement: Southwest Corridor Park - DCR | Park Improvement: Warren Ave - BNAN | Park Improvement Requests
+Building Inspection Request,PWDx,3,Building,PWDx_Code Enforcement,2,Building Inspection Request
+Catchbasin,ISD,3,Catchbasin,ISD_Building (INTERNAL),2,Catchbasin
+Unsatisfactory Living Conditions,BWSC,3,Housing,BWSC_All Cases,1,Unsatisfactory Living Conditions
+Space Savers,INFO,3,Sanitation,INFO_Reallocation From Dept,2,Space Savers
+Illegal Dumping,ISD,3,Code Enforcement,ISD_Housing (INTERNAL),1,Illegal Dumping
+General Lighting Request,PARK,3,Street Lights,PARK_Tree Maintenance Request,3,General Lighting Request
+General Traffic Engineering Request,PWDx,3,Traffic Management & Engineering,PWDx_Contractor Complaints,2,General Traffic Engineering Request
+Pick up Dead Animal,BTDT,3,Street Cleaning,BTDT_Parking Enforcement,3,Pick up Dead Animal
+Illegal Vending,BPD,3,Code Enforcement,BPD_Districts,1,Illegal Vending
+Big Buildings Recycling (INTERNAL),PWDx,3,Recycling,PWDx_WM_Mattress_Pickup,1,Big Buildings Recycling (INTERNAL)
+Roadway Repair,ISD,3,Highway Maintenance,ISD_Building (INTERNAL),1,Roadway Repair
+Requests for Traffic Signal Studies or Reviews,BPD,3,Traffic Management & Engineering,BPD_Districts,1,Requests for Traffic Signal Studies or Reviews
+Request for Snow Plowing (Emergency Responder),INFO,3,Street Cleaning,INFO_Mass DOT,2,Request for Snow Plowing (Emergency Responder)
+Exceeding Terms of Permit,PWDx,3,Building,PWDx_Contractor Complaints,2,Exceeding Terms of Permit
+Sewage/Septic Back-Up,BWSC,3,Housing,BWSC_All Cases,1,Sewage/Septic Back-Up
+Construction Debris,ISD,3,Code Enforcement,ISD_Building (INTERNAL),1,Construction Debris
+Illegal Posting of Signs,INFO,2,Code Enforcement,INFO_MBTA,2,Illegal Posting of Signs
+Unsatisfactory Utilities - Electrical  Plumbing,BWSC,2,Housing,BWSC_All Cases,1,Unsatisfactory Utilities - Electrical  Plumbing
+Walk-In Service Inquiry,BTDT,2,Office of The Parking Clerk,BTDT_OPC_Walk-In Service,1,Walk-In Service Inquiry
+Pick up Dead Animal,GEN,2,Street Cleaning,GEN_Needle_Pickup,1,Pick up Dead Animal
+Improper Storage of Trash (Barrels),DND,2,Code Enforcement,DND_General,1,Improper Storage of Trash (Barrels)
+Street Light Outages,BPD,2,Street Lights,BPD_Districts,1,Street Light Outages
+Student Move-in Issues,BPD,2,General Request,BPD_Districts,1,Request for Street Cleaning | Student Move-in Issues
+Parking Enforcement,DISB,2,Enforcement & Abandoned Vehicles,DISB_HP Sign,1,Parking Enforcement
+Parks General Request,ANML,2,Administrative & General Requests,ANML_General,1,Parks General Request
+Work Hours-Loud Noise Complaints,BWSC,2,Highway Maintenance,BWSC_All Cases,1,Work Hours-Loud Noise Complaints
+News Boxes,PWDx,2,Highway Maintenance,PWDx_News Boxes,1,News Boxes
+No Utilities - Food Establishment - Electricity,ISD,2,Health,ISD_Health (INTERNAL),1,No Utilities - Food Establishment - Electricity
+Animal Generic Request,ISD,2,Animal Issues,ISD_Environmental Services (INTERNAL),1,Animal Generic Request
+Animal Generic Request,PARK,2,Animal Issues,PARK_Maintenance_Region 2,2,Ground Maintenance: Savin Hill Park - BPRD | Animal Generic Request
+Needle Pickup,PARK,2,Needle Program,PARK_Maintenance_Region 3,2,Needle Pickup | Ground Maintenance: Rutherford Avenue Playground - BPRD
+Needle Pickup,ISD,2,Needle Program,ISD_Health (INTERNAL),1,Needle Pickup
+Parking Enforcement,PARK,2,Enforcement & Abandoned Vehicles,PARK_Tree Emergencies,2,Parking Enforcement
+Product Short Measure,ISD,2,Weights and Measures,ISD_Weights and Measures (INTERNAL),1,Product Short Measure
+Request for Pothole Repair,BPD,2,Highway Maintenance,BPD_Districts,1,Request for Pothole Repair
+Request for Pothole Repair,ONS,2,Highway Maintenance,ONS_General,2,Request for Pothole Repair
+General Comments For a Program or Policy,BWSC,2,Employee & General Comments,BWSC_All Cases,1,PublicWorks: Complaint | Other: Complaint
+Illegal Dumping,PARK,2,Code Enforcement,PARK_Maintenance_Region 1,2,Illegal Dumping
+Ground Maintenance,GEN,2,Park Maintenance & Safety,GEN_Needle_Pickup,1,Ground Maintenance: Long Wharf - Unknown | Ground Maintenance: Titus Sparrow Park - BPRD
+Protection of Adjoining Property,BWSC,2,Building,BWSC_All Cases,1,Protection of Adjoining Property
+Ground Maintenance,ANML,2,Park Maintenance & Safety,ANML_General,1,Ground Maintenance: Parkman Memorial - BPRD | Ground Maintenance
+Ground Maintenance,BPD,2,Park Maintenance & Safety,BPD_Districts,1,Ground Maintenance
+Public Works General Request,DISB,2,Administrative & General Requests,DISB_HP Sign,1,Public Works General Request
+Sign Repair,GRNi,2,Signs & Signals,GRNi_Green_Infrastructure,1,Sign Repair
+Transportation General Request,ONS,2,Administrative & General Requests,ONS_General,2,Transportation General Request
+Pick up Dead Animal,BWSC,2,Street Cleaning,BWSC_All Cases,1,Pick up Dead Animal
+Illegal Vending,ONS,2,Code Enforcement,ONS_Roxbury,1,Illegal Vending
+Improper Storage of Trash (Barrels),BHA,2,Code Enforcement,BHA_General,1,Improper Storage of Trash (Barrels)
+Squalid Living Conditions,PWDx,2,Housing,PWDx_Code Enforcement,1,Squalid Living Conditions
+Sign Repair,PROP,2,Signs & Signals,PROP_GRAF_GraffitiRemoval,1,Sign Repair
+Contractor Complaints,ONS,2,Highway Maintenance,ONS_BackBay_Fenway_MissionHill,1,Contractor Complaints
+Egress,BTDT,2,Building,BTDT_Parking Enforcement,1,Egress
+Empty Litter Basket,ISD,2,Highway Maintenance,ISD_Building (INTERNAL),1,Empty Litter Basket
+Exceeding Terms of Permit,BTDT,2,Building,BTDT_Parking Enforcement,2,Exceeding Terms of Permit
+Tree Maintenance Requests,BPD,2,Trees,BPD_Districts,1,Tree Maintenance Requests
+Tree Maintenance Requests,ISD,2,Trees,ISD_Environmental Services (INTERNAL),1,Tree Maintenance Requests
+Request for Snow Plowing,BWSC,2,Street Cleaning,BWSC_All Cases,1,Request for Snow Plowing
+Requests for Traffic Signal Studies or Reviews,PWDx,2,Traffic Management & Engineering,PWDx_Roadway Repair_Reconstruction,2,Requests for Traffic Signal Studies or Reviews
+Roadway Repair,PARK,2,Highway Maintenance,PARK_Tree Maintenance Request,2,Roadway Repair
+Scale Not Visible,ISD,2,Weights and Measures,ISD_Weights and Measures (INTERNAL),1,Scale Not Visible
+Construction Debris,INFO,2,Code Enforcement,INFO_Eversource,2,Construction Debris
+Unsatisfactory Living Conditions,INFO,2,Housing,INFO01_GenericeFormforOtherServiceRequestTypes,2,Unsatisfactory Living Conditions
+Sidewalk Cover / Manhole,BTDT,2,Sidewalk Cover / Manhole,BTDT_Administration,1,Sidewalk Cover / Manhole
+Capital Improvement Long Term,PARK,2,Park Maintenance & Safety,PARK_Park Improvement Requests,1,Capital Improvement Long Term
+Short Measure - Gas,ISD,2,Weights and Measures,ISD_Weights and Measures (INTERNAL),1,Short Measure - Gas
+Work w/out Permit,BTDT,2,Building,BTDT_Permits & Special Events,2,Work w/out Permit
+Abandoned Vehicles,BWSC,1,Enforcement & Abandoned Vehicles,BWSC_All Cases,1,Abandoned Vehicles
+Abandoned Vehicles,ONS,1,Enforcement & Abandoned Vehicles,ONS_General,1,Abandoned Vehicles
+Abandoned Vehicles,PARK,1,Enforcement & Abandoned Vehicles,PARK_Maintenance_Region 6,1,Abandoned Vehicles
+Animal Generic Request,ANML,1,Animal Issues,ANML_General,1,Animal Generic Request
+BWSC General Request,INFO,1,Administrative & General Requests,INFO01_GenericeFormforOtherServiceRequestTypes,1,General Request
+Water in Gas - High Priority,ISD,1,Weights and Measures,ISD_Weights and Measures (INTERNAL),1,Water in Gas - High Priority
+Work Hours-Loud Noise Complaints,BPD,1,Highway Maintenance,BPD_Districts,1,Work Hours-Loud Noise Complaints
+Work w/out Permit,BWSC,1,Building,BWSC_All Cases,1,Work w/out Permit
+Work w/out Permit,PWDx,1,Building,PWDx_Code Enforcement,1,Work w/out Permit
+Working Beyond Hours,BTDT,1,Building,BTDT_Administration,1,Working Beyond Hours
+Working Beyond Hours,BWSC,1,Building,BWSC_All Cases,1,Working Beyond Hours
+Schedule a Bulk Item Pickup,INFO,1,Sanitation,"INFO03_Mobile ""Other"" Requests",1,Schedule a Bulk Item Pickup
+Short Term Rental,BTDT,1,Housing,BTDT_Parking Enforcement,1,Short Term Rental
+Short Term Rental,BWSC,1,Housing,BWSC_All Cases,1,Short Term Rental
+Sidewalk Cover / Manhole,ISD,1,Sidewalk Cover / Manhole,ISD_Administrative,1,Sidewalk Cover / Manhole
+Sidewalk Cover / Manhole,PARK,1,Sidewalk Cover / Manhole,PARK_Maintenance_Region 4,1,Sidewalk Cover / Manhole
+Rodent Activity,DND,1,Environmental Services,DND_General,1,Rodent Activity
+Sidewalk Repair,INFO,1,Highway Maintenance,INFO_Mass DOT,1,Sidewalk Repair
+Sidewalk Repair (Make Safe),BPD,1,Highway Maintenance,BPD_Districts,1,Sidewalk Repair (Make Safe)
+Sidewalk Repair (Make Safe),DISB,1,Highway Maintenance,DISB_General_Request,1,Sidewalk Repair (Make Safe)
+Sidewalk Repair (Make Safe),DND,1,Highway Maintenance,DND_General,1,Sidewalk Repair (Make Safe)
+Requests for Street Cleaning,ECON,1,Street Cleaning,ECON_OutdoorDining,1,Requests for Street Cleaning
+Requests for Street Cleaning,GRNi,1,Street Cleaning,GRNi_Green_Infrastructure,1,Street Cleaning
+Requests for Traffic Signal Studies or Reviews,DISB,1,Traffic Management & Engineering,DISB_HP Sign,1,Requests for Traffic Signal Studies or Reviews
+Requests for Traffic Signal Studies or Reviews,ONS,1,Traffic Management & Engineering,ONS_Roslindale,1,Requests for Traffic Signal Studies or Reviews
+Request for Snow Plowing,ISD,1,Street Cleaning,ISD_Administrative,1,Request for Snow Plowing
+Requests for Directional or Roadway Changes,BPD,1,Traffic Management & Engineering,BPD_Districts,1,Directional or Roadway Changes
+Requests for Directional or Roadway Changes,INFO,1,Traffic Management & Engineering,INFO_Mass DOT,1,Directional or Roadway Changes
+Requests for Street Cleaning,DND,1,Street Cleaning,DND_General,1,Requests for Street Cleaning
+Request for Litter Basket Installation,INFO,1,Street Cleaning,INFO_MBTA,1,Request for Litter Basket Installation
+Request for Pothole Repair,Test,1,Highway Maintenance,TestQueue,1,Request for Pothole Repair
+Request for Snow Plowing,BTDT,1,Street Cleaning,BTDT_Parking Lot_Municipal Parking Lot Complaints,1,Request for Snow Plowing
+Public Works General Request,ANML,1,Administrative & General Requests,ANML_General,1,Public Works General Request
+Public Works General Request,BPD,1,Administrative & General Requests,BPD_Districts,1,Public Works General Request
+Snow/Ice Control,PWDx,1,Street Cleaning,PWDx_District 03: North Dorchester,1,Snow/Ice Control Internal
+Space Savers,BHA,1,Sanitation,BHA_General,1,Space Savers
+Squalid Living Conditions,INFO,1,Housing,INFO_Reallocation From Dept,1,Squalid Living Conditions
+Pigeon Infestation,PWDx,1,Environmental Services,PWDx_Highway Construction,1,Pigeon Infestation
+Poor Conditions of Property,BWSC,1,Code Enforcement,BWSC_All Cases,1,Poor Conditions of Property
+Poor Conditions of Property,DND,1,Code Enforcement,DND_General,1,Poor Conditions of Property
+Pigeon Infestation,ANML,1,Environmental Services,ANML_General,1,Pigeon Infestation
+Parks General Request,ONS,1,Administrative & General Requests,ONS_JamaicaPlain,1,Parks General Request
+Parks Lighting/Electrical Issues,BHA,1,Park Maintenance & Safety,BHA_General,1,Parks Lighting/Electrical Issues
+Parks Lighting/Electrical Issues,BPD,1,Park Maintenance & Safety,BPD_Districts,1,Parks Lighting/Electrical Issues
+Pavement Marking Inspection,PARK,1,Operations,PARK_Maintenance_Ground Maintenance,1,Pavement Marking Inspection
+Pavement Marking Maintenance,BTDT,1,Operations,BTDT_Sign Shop_Sign Installation,1,Pavement Marking Maintenance
+State/Cass Shelter Sites,INFO,1,Programs,INFO_Unsheltered_Persons,1,MASS Shelter Site
+Street Light Knock Downs,BHA,1,Street Lights,BHA_General,1,Street Light Knock Downs
+Street Light Outages,BWSC,1,Street Lights,BWSC_All Cases,1,Street Light Outages
+StreetLight Pole WO,INFO,1,Highway Maintenance,INFO_Low Hanging Wire,1,Street Light Pole WO
+Parking Enforcement,ECON,1,Enforcement & Abandoned Vehicles,ECON_OutdoorDining,1,Parking Enforcement
+Parking Enforcement,ONS,1,Enforcement & Abandoned Vehicles,ONS_Roslindale,1,Parking Enforcement
+Parking Enforcement,PROP,1,Enforcement & Abandoned Vehicles,PROP_GRAF_GraffitiRemoval,1,Parking Enforcement
+Parks General Request,BWSC,1,Administrative & General Requests,BWSC_All Cases,1,Parks General Request
+Notification,INFO,1,Notification,INFO_Reallocation From Dept,1,BWSC: Sanitary Sewer Overflow (SSO)
+Park Improvement Requests,ISD,1,Park Maintenance & Safety,ISD_Environmental Services (INTERNAL),1,Park Improvement: Boston Common - BPRD
+No-Tow Complaint Confirmation,PARK,1,Administrative & General Requests,PARK_Tree Maintenance Request,1,No-Tow Complaint Confirmation
+Municipal Parking Lot Complaints,DISB,1,Parking Complaints,DISB_HP Sign,1,Municipal Parking Lot Complaints
+Municipal Parking Lot Complaints,PWDx,1,Parking Complaints,PWDx_Street Light_Upgrade Existing Lighting,1,Municipal Parking Lot Complaints
+New Tree Requests,DND,1,Trees,DND_General,1,New Tree Requests
+Student Move-in Issues,BWSC,1,General Request,BWSC_All Cases,1,Student Move-in Issues
+Student Move-in Issues,ISD,1,General Request,ISD_Building (INTERNAL),1,Student Move-in Issues
+Traffic Signal Inspection,BWSC,1,Signs & Signals,BWSC_All Cases,1,Traffic Signal Inspection
+Traffic Signal Inspection,ISD,1,Signs & Signals,ISD_Administrative,1,Traffic Signal Inspection
+Traffic Signal Inspection,PARK,1,Signs & Signals,PARK_Tree Emergencies,1,Traffic Signal Inspection
+Traffic Signal Repair,ONS,1,Signs & Signals,ONS_JamaicaPlain,1,Illegal Graffiti
+Misc. Snow Complaint,PARK,1,Administrative & General Requests,PARK_Maintenance_Ground Maintenance,1,Misc. Snow Complaint
+Missing Sign,DISB,1,Signs & Signals,DISB_HP Sign,1,Missing Sign
+Missing Sign,ONS,1,Signs & Signals,ONS_General,1,Missing Sign
+Mosquitoes (West Nile),PWDx,1,Environmental Services,PWDx_Code Enforcement,1,Mosquitoes (West Nile)
+Litter Basket Maintenance,ONS,1,Highway Maintenance,ONS_BackBay_Fenway_MissionHill,1,Litter Basket Maintenance
+Litter Basket Maintenance,PARK,1,Highway Maintenance,PARK_Maintenance_Ground Maintenance,1,Litter Basket Maintenance
+Maintenance - Homeowner,BWSC,1,Building,BWSC_All Cases,1,Maintenance - Homeowner
+Maintenance Complaint - Residential,DND,1,Housing,DND_General,1,Maintenance Complaint - Residential
+Maintenance Complaint - Residential,INFO,1,Housing,INFO_Reallocation From Dept,1,Maintenance Complaint - Residential
+Maintenance Complaint - Residential,PARK,1,Housing,PARK_Tree Maintenance Request,1,Maintenance Complaint - Residential
+Mattress_Pickup,INFO,1,Sanitation,INFO_Reallocation From Dept,1,Mattress Pickup
+Improper Storage of Trash (Barrels),ECON,1,Code Enforcement,ECON_OutdoorDining,1,Improper Storage of Trash (Barrels)
+Improper Storage of Trash (Barrels),ONS,1,Code Enforcement,ONS_EastBoston,1,Improper Storage of Trash (Barrels)
+Install New Lighting,INFO,1,Street Lights,INFO_MBTA,1,Install New Lighting
+Knockdown Replacement,INFO,1,Street Lights,INFO_Mass DCR,1,Knockdown Wooden DCR Light Post
+Transportation General Request,ISD,1,Administrative & General Requests,ISD_Housing (INTERNAL),1,Transportation General Request
+Trash on Vacant Lot,DND,1,Environmental Services,DND_General,1,Trash on Vacant Lot
+Illegal Posting of Signs,ONS,1,Code Enforcement,ONS_General,1,Illegal Posting of Signs
+Illegal Posting of Signs,PARK,1,Code Enforcement,PARK_Maintenance_Region 3,1,Illegal Posting of Signs
+Illegal Vending,BTDT,1,Code Enforcement,BTDT_Parking Enforcement,1,Illegal Vending
+Illegal Auto Body Shop,BPD,1,Environmental Services,BPD_Districts,1,Illegal Auto Body Shop
+Illegal Auto Body Shop,BWSC,1,Environmental Services,BWSC_All Cases,1,Illegal Auto Body Shop
+Illegal Dumping,ANML,1,Code Enforcement,ANML_General,1,Illegal Dumping
+Illegal Dumping,GEN,1,Code Enforcement,GEN_Needle_Pickup,1,Illegal Dumping
+Illegal Occupancy,INFO,1,Building,INFO_Homeless Issue,1,Illegal Occupancy
+General Traffic Engineering Request,ONS,1,Traffic Management & Engineering,ONS_MidDorchester,1,General Traffic Engineering Request
+General Comments For a Program or Policy,PROP,1,Employee & General Comments,PROP_GRAF_GraffitiRemoval,1,PublicWorks: Compliment
+General Lighting Request,BWSC,1,Street Lights,BWSC_All Cases,1,General Lighting Request//PRINTED //
+General Lighting Request,ONS,1,Street Lights,ONS_SouthBoston,1,General Lighting Request
+Tree Maintenance Requests,BWSC,1,Trees,BWSC_All Cases,1,Tree Maintenance Requests
+Tree Maintenance Requests,ONS,1,Trees,ONS_General,1,Tree Maintenance Requests
+Tree in Park,INFO,1,Trees,INFO_Mass DCR,1,Park Maintenance:
+Unit Pricing Wrong/Missing,INFO,1,Weights and Measures,INFO01_GenericeFormforOtherServiceRequestTypes,1,Unit Pricing Wrong/Missing
+Unsafe Dangerous Conditions,BTDT,1,Building,BTDT_Administration,1,Unsafe/Dangerous Conditions
+Follow-Up,ISD,1,Administrative,ISD_Administrative,1,ISD Follow-Up
+General Comments For An Employee,PROP,1,Employee & General Comments,PROP_GRAF_GraffitiRemoval,1,PublicWorks: Complaint
+Equipment Repair,DND,1,Park Maintenance & Safety,DND_General,1,Equipment Repair
+Equipment Repair,GRNi,1,Park Maintenance & Safety,GRNi_Green_Infrastructure,1,Equipment Repair
+Equipment Repair,ONS,1,Park Maintenance & Safety,ONS_SouthDorchester,1,Equipment Repair
+Contractors Complaint,BHA,1,Building,BHA_General,1,Contractors Complaint
+Contractors Complaint,BWSC,1,Building,BWSC_All Cases,1,Contractors Complaint
+Contractors Complaint,PARK,1,Building,PARK_Park Improvement Requests,1,Contractors Complaint
+Egress,PWDx,1,Building,PWDx_Contractor Complaints,1,Egress
+City/State Snow Issues,PWDx,1,Programs,PWDx_District 06: West Roxbury and Roslindale,1,City/State Snow Issues
+Construction Debris,BWSC,1,Code Enforcement,BWSC_All Cases,1,Construction Debris
+Contractor Complaints,BPD,1,Highway Maintenance,BPD_Districts,1,Contractor Complaints
+Contractor Complaints,DND,1,Highway Maintenance,DND_General,1,Contractor Complaints
+Unsanitary Conditions - Food,BPD,1,Health,BPD_Districts,1,Unsanitary Conditions - Food
+Unsanitary Conditions - Food,PWDx,1,Health,PWDx_Code Enforcement,1,Unsanitary Conditions - Food
+Unsatisfactory Living Conditions,ANML,1,Housing,ANML_General,1,Unsatisfactory Living Conditions
+Unsatisfactory Living Conditions,BPD,1,Housing,BPD_Districts,1,Unsatisfactory Living Conditions
+CE Collection,BWSC,1,Street Cleaning,BWSC_All Cases,1,CE Collection
+CE Collection,DND,1,Street Cleaning,DND_General,1,CE Collection
+CE Collection,GEN,1,Street Cleaning,GEN_Needle_Pickup,1,CE Collection
+CE Collection,ISD,1,Street Cleaning,ISD_Administrative,1,CE Collection
+Catchbasin,PARK,1,Catchbasin,PARK_Maintenance_Region 3,1,Ground Maintenance: Franklin Park - BPRD
+BWSC General Request,ISD,1,Administrative & General Requests,ISD_Building (INTERNAL),1,General Request
+BWSC General Request,PARK,1,Administrative & General Requests,PARK_Maintenance_Trades,1,General Request
+BWSC Pothole,INFO,1,Pothole,INFO01_GenericeFormforOtherServiceRequestTypes,1,Miscellaneous
+Bridge Maintenance,INFO,1,Bridge Maintenance,INFO_Mass DOT,1,Bridge Maintenance
+Building Inspection Request,BTDT,1,Building,BTDT_Parking Enforcement,1,Building Inspection Request
+Building Inspection Request,BWSC,1,Building,BWSC_All Cases,1,Building Inspection Request
+Unshoveled Sidewalk,BTDT,1,Code Enforcement,BTDT_BostonBikes,1,Unshoveled Sidewalk
+Unshoveled Sidewalk,BWSC,1,Code Enforcement,BWSC_All Cases,1,Unshoveled Sidewalk
+Upgrade Existing Lighting,INFO,1,Street Lights,INFO_Reallocation From Dept,1,Upgrade Existing Lighting
+Utility Call-In,PWDx,1,Highway Maintenance,PWDx_Utility Call-In,1,Utility Call-In
+Utility Casting Repair,BTDT,1,Highway Maintenance,BTDT_Administration,1,Utility Casting Repair
+Working Beyond Hours,ONS,1,Building,ONS_Roxbury,1,Working Beyond Hours
+Working Beyond Hours,PWDx,1,Building,PWDx_Contractor Complaints,1,Working Beyond Hours
+Zoning,BTDT,1,Building,BTDT_Administration,1,Zoning
+Abandoned Building,INFO,1,Environmental Services,INFO_Reallocation From Dept,1,Abandoned Building
+Zoning,PWDx,1,Building,PWDx_Code Enforcement,1,Zoning

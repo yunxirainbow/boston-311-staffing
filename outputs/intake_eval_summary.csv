@@ -1,0 +1,6 @@
+,type accuracy (all),type accuracy (clear),department accuracy (all),retrieval recall,asks when it should,asks when it shouldn't
+A · embedding top-1 (basic cards),0.4888888888888889,0.5333333333333333,0.8,0.7954545454545454,0.0,0.0
+B · embedding top-1 (enriched cards),0.6,0.7,0.8222222222222222,0.8863636363636364,0.0,0.0
+C · RAG top-5 + LLM (basic cards),0.7555555555555555,0.8666666666666667,0.8888888888888888,0.8181818181818182,0.4,0.0
+D · RAG top-5 + LLM (enriched) ★,0.9777777777777777,1.0,0.9777777777777777,0.9772727272727273,0.7,0.0
+E · all 170 types in prompt + LLM,0.8888888888888888,1.0,0.9777777777777777,,0.1,0.0

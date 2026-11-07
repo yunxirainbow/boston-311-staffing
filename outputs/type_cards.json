@@ -1,0 +1,1517 @@
+{
+ "Parking Enforcement": {
+  "description": "This type is for reporting parking violations or issues related to abandoned vehicles. Residents can request enforcement action to ensure compliance with parking regulations.",
+  "resident_phrases": [
+   "There's a car parked in front of my driveway again!",
+   "Can someone check on that abandoned vehicle on my street?",
+   "I see a lot of cars parked illegally around here, can you do something?",
+   "There's a car blocking the bike lane, please send someone."
+  ]
+ },
+ "Improper Storage of Trash (Barrels)": {
+  "description": "This type addresses issues with trash barrels being stored improperly, which can lead to neighborhood cleanliness problems. Residents can report barrels left out on the street or inappropriately placed.",
+  "resident_phrases": [
+   "My neighbor keeps leaving their trash barrels out all week, it's a mess!",
+   "Can you check on the trash barrels on my street? They're everywhere!",
+   "There's a shopping cart just sitting on the sidewalk, can you pick it up?",
+   "I noticed some barrels are not stored properly, can someone look into it?"
+  ]
+ },
+ "Requests for Street Cleaning": {
+  "description": "This type is for residents to request street cleaning services in their area. It helps keep the streets clean and free of debris.",
+  "resident_phrases": [
+   "The streets are really dirty around here, can we get a cleaning?",
+   "There's a lot of trash on my street, can you send someone to clean it?",
+   "Can you schedule a street cleaning for my neighborhood?",
+   "I noticed some litter piling up, can we get a street clean soon?"
+  ]
+ },
+ "CE Collection": {
+  "description": "This type is for reporting collections related to street cleaning efforts. It is used internally by city staff to manage collection requests.",
+  "resident_phrases": [
+   "I saw some debris that needs to be collected, can you take care of it?",
+   "There's a pile of junk on the street, can someone pick it up?",
+   "Can you arrange for a collection in my area?",
+   "I noticed some trash that needs to be cleared away, please help!"
+  ]
+ },
+ "Schedule a Bulk Item Pickup": {
+  "description": "This type allows residents to schedule pickups for large items that need to be disposed of. It's a convenient way to get rid of bulky waste.",
+  "resident_phrases": [
+   "I need to get rid of an old couch, how do I schedule a pickup?",
+   "Can you send someone to pick up my old mattress?",
+   "I have a few large items to throw away, can you help me schedule a pickup?",
+   "When can I schedule a bulk item pickup for my old furniture?"
+  ]
+ },
+ "Needle Pickup": {
+  "description": "This type is for reporting the need for needle pickups in public areas. It helps ensure safety and cleanliness in the community.",
+  "resident_phrases": [
+   "I found a needle on the sidewalk, can someone come pick it up?",
+   "There's a needle near the playground, please send someone to clean it up.",
+   "Can you help with a needle cleanup in my neighborhood?",
+   "I saw some needles in the park, can you take care of that?"
+  ]
+ },
+ "Missed Trash/Recycling/Yard Waste/Bulk Item": {
+  "description": "This type is for reporting missed collections of trash, recycling, yard waste, or bulk items. Residents can notify the city if their scheduled pickup was missed.",
+  "resident_phrases": [
+   "My trash wasn't picked up this week, can you check on it?",
+   "I think the recycling was missed, can you send someone?",
+   "I put out yard waste but it didn't get collected, what should I do?",
+   "Can you help me with a missed bulk item pickup?"
+  ]
+ },
+ "Poor Conditions of Property": {
+  "description": "This type is for reporting properties that are in poor condition, which may violate city codes. Residents can report issues like overgrown weeds or general neglect.",
+  "resident_phrases": [
+   "There's a house nearby that's really falling apart, can someone look into it?",
+   "I noticed some weeds growing everywhere, can you send someone to check?",
+   "The property next door is in bad shape, can you do something about it?",
+   "Can you check on that vacant lot? It's really overgrown."
+  ]
+ },
+ "Mattress_Pickup": {
+  "description": "This type allows residents to request the pickup of old mattresses for disposal. It's a specific service for bulky waste management.",
+  "resident_phrases": [
+   "I need to get rid of an old mattress, how do I schedule that?",
+   "Can you send someone to pick up my mattress?",
+   "I have a mattress that needs to be picked up, what do I do?",
+   "When can I schedule a mattress pickup?"
+  ]
+ },
+ "Tree Maintenance Requests": {
+  "description": "This type is for residents to request maintenance for trees in public spaces. It helps ensure the health and safety of urban trees.",
+  "resident_phrases": [
+   "The tree in front of my house needs trimming, can you help?",
+   "There's a branch hanging low over the sidewalk, can someone check it?",
+   "Can you send someone to look at the trees in the park?",
+   "I noticed a tree that's looking sick, can you take care of it?"
+  ]
+ },
+ "Request for Pothole Repair": {
+  "description": "This request type is for reporting potholes or sinkholes on city streets that need repair. Residents can help improve road safety by notifying the city about these issues.",
+  "resident_phrases": [
+   "There's a huge pothole on my street, can someone fix it?",
+   "I just hit a sinkhole near the park, please send help!",
+   "The road by my house is full of potholes, it's getting dangerous!",
+   "Can you take care of that big pothole on Main Street?"
+  ]
+ },
+ "Schedule a Bulk Item Pickup SS": {
+  "description": "This request type allows residents to schedule a pickup for large items that need to be disposed of, such as furniture or appliances. It's a convenient way to get rid of bulky waste.",
+  "resident_phrases": [
+   "I need to schedule a pickup for my old couch, please!",
+   "Can you come pick up a mattress from my place?",
+   "I have a few large items to throw away, how do I set that up?",
+   "When can I schedule a bulk item pickup for my old fridge?"
+  ]
+ },
+ "Pick up Dead Animal": {
+  "description": "This request type is for reporting dead animals on public property that need to be removed. Residents can help keep their neighborhoods clean and safe by reporting these incidents.",
+  "resident_phrases": [
+   "There's a dead animal on the sidewalk, can you send someone?",
+   "I saw a dead raccoon in the alley, please take care of it.",
+   "Can you pick up a dead bird I found in the park?",
+   "There's a dead animal near my house, it needs to be removed."
+  ]
+ },
+ "Sidewalk Repair (Make Safe)": {
+  "description": "This request type is for reporting unsafe sidewalk conditions that need immediate repair. Residents can help ensure pedestrian safety by notifying the city about hazardous sidewalks.",
+  "resident_phrases": [
+   "The sidewalk is cracked and dangerous, can you fix it?",
+   "There's a big hole in the sidewalk by my house, please make it safe!",
+   "I tripped on the uneven sidewalk, it needs urgent repair!",
+   "Can you check the sidewalk near the school? It's really bad."
+  ]
+ },
+ "Sign Repair": {
+  "description": "This request type is for reporting damaged or missing traffic signs. Residents can help improve road safety by notifying the city about these issues.",
+  "resident_phrases": [
+   "The stop sign at the corner is missing, can you replace it?",
+   "There's a damaged street sign that needs fixing, please help!",
+   "I noticed a traffic sign is down, can you send someone to repair it?",
+   "Can you check the bike lane sign? It's been knocked over."
+  ]
+ },
+ "Abandoned Vehicles": {
+  "description": "This request type is for reporting vehicles that appear to be abandoned on public streets. Residents can help keep their neighborhoods tidy and safe by reporting these vehicles.",
+  "resident_phrases": [
+   "There's a car that's been parked here for weeks, is it abandoned?",
+   "Can you check on that motorcycle that's been sitting there forever?",
+   "I think there's a scooter that's been abandoned on my street.",
+   "There's an old van that hasn't moved in ages, can you take a look?"
+  ]
+ },
+ "Rodent Activity": {
+  "description": "This request type is for reporting sightings of rodents in the area. Residents can help maintain a healthy environment by notifying the city about rodent issues.",
+  "resident_phrases": [
+   "I've seen a lot of rats around my neighborhood, can you do something?",
+   "There are too many mice in my yard, it's getting out of hand!",
+   "Can you send someone to check on the rodent problem in my area?",
+   "I spotted a few rodents near the trash bins, please investigate."
+  ]
+ },
+ "Recycling Cart Return": {
+  "description": "This request type is for requesting the return of recycling carts that may have been taken or misplaced. Residents can help ensure proper recycling practices by reporting these issues.",
+  "resident_phrases": [
+   "I need my recycling cart returned, it hasn't been brought back yet.",
+   "Can you send someone to bring back my recycling bin?",
+   "My recycling cart is missing, can you help me get it back?",
+   "I think my recycling cart was taken, how can I get it returned?"
+  ]
+ },
+ "Request for Recycling Cart": {
+  "description": "This request type allows residents to request a new recycling cart if they do not have one or if theirs is damaged. It's important for residents to have the proper tools for recycling.",
+  "resident_phrases": [
+   "I need a new recycling cart, mine is broken.",
+   "Can I request a recycling bin? I don't have one.",
+   "How do I get a recycling cart for my home?",
+   "I just moved in and need a recycling cart, please help!"
+  ]
+ },
+ "Street Light Outages": {
+  "description": "This request type is for reporting street light outages that need repair. Residents can help improve neighborhood safety by notifying the city about non-functioning street lights.",
+  "resident_phrases": [
+   "The street light on my block is out, can you fix it?",
+   "There's a dark spot on my street because the light is out, please check it!",
+   "Can you send someone to repair the street light at the corner?",
+   "I noticed a few street lights are not working, can you take care of that?"
+  ]
+ },
+ "Traffic Signal Inspection": {
+  "description": "This request type is for reporting issues with traffic signals that may need inspection or repair. Residents can notify the city about malfunctioning signals to ensure safety on the roads.",
+  "resident_phrases": [
+   "The traffic light at Main and 1st isn't working right.",
+   "Can someone check the signal at Park Ave? It's acting weird.",
+   "There's a traffic signal that's out near my house.",
+   "The light at Elm and Maple is stuck on red."
+  ]
+ },
+ "Unshoveled Sidewalk": {
+  "description": "This request type is for reporting sidewalks that have not been cleared of snow or ice, which can pose hazards for pedestrians. Residents can help ensure safe walking conditions by reporting these issues.",
+  "resident_phrases": [
+   "The sidewalk on my street is still covered in snow.",
+   "Can someone do something about the unshoveled sidewalks around here?",
+   "There's a really icy patch on the sidewalk by my house.",
+   "The sidewalk near the park hasn't been cleared at all."
+  ]
+ },
+ "Animal Generic Request": {
+  "description": "This request type is for general inquiries or issues related to animals. Residents can use this to ask questions or report various animal-related concerns.",
+  "resident_phrases": [
+   "I saw a stray dog wandering around my neighborhood.",
+   "Can you help me with a raccoon problem in my yard?",
+   "What should I do about a lost cat I found?",
+   "There's a wild animal in my backyard, what do I do?"
+  ]
+ },
+ "Ground Maintenance": {
+  "description": "This request type is for reporting issues related to the maintenance of parks and recreational areas. Residents can request attention for grounds that need care or upkeep.",
+  "resident_phrases": [
+   "The grass at the park is getting really overgrown.",
+   "Can someone check the flower beds at the community garden?",
+   "The playground equipment needs some maintenance.",
+   "There are a lot of weeds in the park near my house."
+  ]
+ },
+ "Illegal Dumping": {
+  "description": "This request type is for reporting instances of illegal dumping in public areas. Residents can help keep the city clean by notifying authorities about trash or debris that has been improperly disposed of.",
+  "resident_phrases": [
+   "There's a pile of garbage dumped behind my building.",
+   "I saw someone dumping trash in the alleyway.",
+   "Can you send someone to clean up the junk on Main Street?",
+   "There's a lot of litter in the vacant lot next to my house."
+  ]
+ },
+ "New Tree Requests": {
+  "description": "This request type is for residents who would like to request the planting of new trees in their neighborhood. It helps enhance the urban landscape and improve the environment.",
+  "resident_phrases": [
+   "Can we get a new tree planted on my street?",
+   "I'd love to see more trees in the park.",
+   "Is it possible to request a tree for my front yard?",
+   "There’s a spot in the neighborhood that could really use a tree."
+  ]
+ },
+ "Graffiti Removal": {
+  "description": "This request type is for reporting graffiti that needs to be removed from public or private property. Residents can help keep their community looking clean and welcoming by reporting graffiti.",
+  "resident_phrases": [
+   "There's some graffiti on the wall by the bus stop.",
+   "Can you send someone to clean up the tags on the building?",
+   "I noticed graffiti on the playground equipment.",
+   "There's a lot of spray paint on the fence near my house."
+  ]
+ },
+ "Sticker Request": {
+  "description": "This request type is for residents who need stickers for recycling or waste disposal. It helps ensure proper waste management in the community.",
+  "resident_phrases": [
+   "I need some recycling stickers for my bins.",
+   "Can I get more stickers for my trash bags?",
+   "Where can I request stickers for my recycling?",
+   "I ran out of stickers for my compost bins."
+  ]
+ },
+ "Unsatisfactory Living Conditions": {
+  "description": "This request type is for reporting issues related to unsatisfactory living conditions in housing. It is primarily used for internal purposes by city staff to address housing concerns.",
+  "resident_phrases": [
+   "My apartment has some serious maintenance issues.",
+   "The heating isn't working properly in my building.",
+   "Can someone check on the mold in my unit?",
+   "I'm having problems with pests in my apartment."
+  ]
+ },
+ "Equipment Repair": {
+  "description": "This request type is for reporting issues with park equipment that needs repair. Residents can help ensure that recreational facilities are safe and functional for everyone.",
+  "resident_phrases": [
+   "The swings at the park are broken.",
+   "Can someone fix the benches in the playground?",
+   "There's a problem with the water fountain at the park.",
+   "The basketball hoop is damaged and needs repair."
+  ]
+ },
+ "Empty Litter Basket": {
+  "description": "This request type is for reporting litter baskets that need to be emptied in Downtown Boston. Residents can use this to ensure public spaces remain clean and tidy.",
+  "resident_phrases": [
+   "The litter basket on my street is overflowing!",
+   "Can someone empty the trash can near the park?",
+   "That litter basket downtown is full, please take care of it.",
+   "There's a full trash can by the bus stop, can you empty it?"
+  ]
+ },
+ "Pest Infestation - Residential": {
+  "description": "This request type is for reporting pest infestations in residential properties. It is handled internally by the Inspectional Services Department.",
+  "resident_phrases": [
+   "I think I have a pest problem in my apartment.",
+   "There are bugs everywhere in my house, can you help?",
+   "I need someone to check for pests in my building.",
+   "There's a serious infestation in my unit, what should I do?"
+  ]
+ },
+ "Contractor Complaints": {
+  "description": "This request type is for residents to report issues or complaints regarding contractors working on public projects. It helps ensure quality and accountability in public works.",
+  "resident_phrases": [
+   "The contractor working on the street is making a mess!",
+   "Can you look into the issues with the construction crew?",
+   "I'm not happy with the work being done by the contractors.",
+   "There’s a problem with the street cleaning crew, can you check it out?"
+  ]
+ },
+ "New Sign  Crosswalk or Pavement Marking": {
+  "description": "This request type is for residents to request new crosswalk signs or pavement markings to improve safety and traffic flow. It is managed by the Transportation Department.",
+  "resident_phrases": [
+   "We need a crosswalk sign at the intersection here!",
+   "Can you add a new pavement marking on this busy street?",
+   "There should be a sign for pedestrians at this corner.",
+   "I think a crosswalk is needed at this location, please help!"
+  ]
+ },
+ "Abandoned Bicycle": {
+  "description": "This request type is for reporting bicycles that have been left abandoned in public spaces. The Transportation Department handles these requests to keep the streets clear.",
+  "resident_phrases": [
+   "There’s an abandoned bike on my street, can you pick it up?",
+   "I saw a bike just sitting there for weeks, what can be done?",
+   "Can someone remove that old bicycle from the sidewalk?",
+   "There’s a scooter left abandoned near my building, please take care of it."
+  ]
+ },
+ "Work w/out Permit": {
+  "description": "This request type is for reporting construction or work being done without the necessary permits. It is handled internally by the Inspectional Services Department.",
+  "resident_phrases": [
+   "I think someone is doing construction without a permit.",
+   "There’s work happening here that doesn’t look legal.",
+   "Can you check if this construction has the right permits?",
+   "I saw some work being done without any signs, can you investigate?"
+  ]
+ },
+ "Contractors Complaint": {
+  "description": "This request type is for residents to report complaints specifically about contractors in the building sector. It is managed internally by the Inspectional Services Department.",
+  "resident_phrases": [
+   "I have a complaint about the contractor working on my building.",
+   "The contractor is not following the rules, can you help?",
+   "There’s an issue with the work being done by the contractor here.",
+   "Can you look into the problems with the contractor on my street?"
+  ]
+ },
+ "PWD Graffiti": {
+  "description": "This request type is for reporting graffiti in public spaces. The Public Works Department addresses these requests to maintain the city's appearance.",
+  "resident_phrases": [
+   "There’s graffiti on the wall near my house, can you remove it?",
+   "Can someone clean up the graffiti on the sidewalk?",
+   "I saw some graffiti that needs to be taken care of, please help!",
+   "There’s a lot of graffiti in my neighborhood, can you send someone?"
+  ]
+ },
+ "Request for Snow Plowing": {
+  "description": "This request type is for residents to request snow plowing services during winter storms. It helps ensure streets are safe and accessible.",
+  "resident_phrases": [
+   "Can you send a plow to my street? It's really snowy!",
+   "The roads need plowing, it's getting dangerous out here.",
+   "I need snow removal on my street, please help!",
+   "The snow is piling up, can someone come plow?"
+  ]
+ },
+ "General Lighting Request": {
+  "description": "This request type is for residents to request new street lighting or report issues with existing lights. It is managed by the Public Works Department.",
+  "resident_phrases": [
+   "The streetlight on my corner is out, can you fix it?",
+   "We need more lighting on this street, it's too dark!",
+   "Can you add a new streetlight here? It's really dim.",
+   "There’s a lighting issue on my block, please check it out!"
+  ]
+ },
+ "Heat - Excessive  Insufficient": {
+  "description": "This type is for reporting issues related to excessive or insufficient heating in residential buildings. If you're feeling too hot or too cold in your home, this is the right request to make.",
+  "resident_phrases": [
+   "My apartment is freezing, can someone check the heat?",
+   "It's way too hot in here, help!",
+   "The heat isn't working at all, what should I do?",
+   "Can someone come look at the heating in my building?"
+  ]
+ },
+ "Tree Emergencies": {
+  "description": "This type is for urgent issues involving trees, such as fallen branches or hazardous conditions. If you see a tree that poses a danger, report it here.",
+  "resident_phrases": [
+   "There's a huge branch down in the street, it's blocking traffic!",
+   "A tree fell in my yard and it's a mess, can you send someone?",
+   "I think a tree is about to fall, it's leaning dangerously!",
+   "Help! There's a tree emergency on my block!"
+  ]
+ },
+ "Loud Parties/Music/People": {
+  "description": "This type is for reporting noise disturbances from loud parties, music, or gatherings. If the noise is bothering you, let us know.",
+  "resident_phrases": [
+   "There's a party next door and it's way too loud!",
+   "Can you do something about the music blaring from across the street?",
+   "I can't sleep because of the noise from the neighbors!",
+   "There's a bunch of people making noise outside, it's really disruptive."
+  ]
+ },
+ "Requests for Traffic Signal Studies or Reviews": {
+  "description": "This type is for requesting studies or reviews of traffic signals in your area. If you think a traffic signal needs to be evaluated, this is the right request.",
+  "resident_phrases": [
+   "Can we get a traffic signal review at the intersection by my house?",
+   "I think the traffic lights need to be adjusted, it's chaotic!",
+   "There's a busy intersection that could use a traffic study.",
+   "Can someone look into the timing of the lights on Main Street?"
+  ]
+ },
+ "Maintenance Complaint - Residential": {
+  "description": "This type is for reporting maintenance issues in residential buildings. If something in your home needs fixing, submit a complaint here.",
+  "resident_phrases": [
+   "The sink is leaking, can someone come fix it?",
+   "There's a problem with the heating in my apartment, it's not working right.",
+   "I need help with a maintenance issue in my building.",
+   "The elevator has been out for days, can you send someone?"
+  ]
+ },
+ "Transportation General Request": {
+  "description": "This type is for general requests related to transportation issues. If you have a question or need assistance, use this request.",
+  "resident_phrases": [
+   "I have a question about public transportation schedules.",
+   "Can you provide info on bike lanes in the area?",
+   "I need help with a transportation issue, who do I contact?",
+   "What's the best way to report a problem with the bus service?"
+  ]
+ },
+ "Working Beyond Hours": {
+  "description": "This type is for reporting construction or work being done outside of permitted hours. If you hear noise late at night, let us know.",
+  "resident_phrases": [
+   "There's construction happening at night, it's really loud!",
+   "Can someone check if the work being done is allowed at this hour?",
+   "I keep hearing noise from a construction site late at night.",
+   "There's a crew working outside of normal hours, it's disturbing!"
+  ]
+ },
+ "Public Works General Request": {
+  "description": "This type is for general requests related to public works issues. If you have a concern or need assistance, submit your request here.",
+  "resident_phrases": [
+   "I need to report a pothole on my street.",
+   "Can you send someone to check on the street cleaning schedule?",
+   "There's a problem with the sidewalk that needs attention.",
+   "I have a question about trash pickup in my neighborhood."
+  ]
+ },
+ "Catchbasin": {
+  "description": "This type is for reporting issues with catchbasins, such as blockages or maintenance needs. If you see a problem, let us know.",
+  "resident_phrases": [
+   "The catchbasin on my street is clogged, can you fix it?",
+   "There's water pooling near the catchbasin, it needs attention.",
+   "Can someone check the catchbasin by the park?",
+   "I think the catchbasin is broken, it's not draining properly."
+  ]
+ },
+ "Unsanitary Conditions - Establishment": {
+  "description": "This type is for reporting unsanitary conditions in establishments, such as restaurants or stores. If you see something concerning, report it here.",
+  "resident_phrases": [
+   "The restaurant I visited had a serious cleanliness issue, can you check it out?",
+   "I noticed some unsanitary conditions at a local shop, it needs attention.",
+   "There's a problem with cleanliness at a food establishment nearby.",
+   "Can someone investigate the hygiene standards at this place?"
+  ]
+ },
+ "Building Inspection Request": {
+  "description": "This request type is for residents to ask for a building inspection by the Inspectional Services Department. It is primarily used internally by city staff.",
+  "resident_phrases": [
+   "Can someone check out my building?",
+   "I need an inspection for my property.",
+   "Is there a way to request a building inspection?",
+   "How do I get a building inspection scheduled?"
+  ]
+ },
+ "Electrical": {
+  "description": "This request type allows residents to report electrical issues, such as power outages or electrical malfunctions, to the Inspectional Services Department.",
+  "resident_phrases": [
+   "My power is out, can you help?",
+   "There's a problem with my electricity.",
+   "I think there's an electrical issue in my house.",
+   "Can someone check my electrical system?"
+  ]
+ },
+ "Unsafe Dangerous Conditions": {
+  "description": "This request type is for reporting unsafe or dangerous conditions in buildings. It is used internally by city staff to address urgent safety concerns.",
+  "resident_phrases": [
+   "There's something dangerous in my building!",
+   "I found an unsafe condition that needs attention.",
+   "Can someone come check this hazardous area?",
+   "This situation feels unsafe, please help!"
+  ]
+ },
+ "Roadway Repair": {
+  "description": "Residents can use this request type to report issues with roadways that need repair, such as potholes or damaged surfaces, to the Public Works Department.",
+  "resident_phrases": [
+   "The road is really bumpy here!",
+   "Can you fix the potholes on my street?",
+   "There's a big hole in the road that needs repair.",
+   "The pavement is in bad shape, can someone help?"
+  ]
+ },
+ "General Comments For a Program or Policy": {
+  "description": "This request type is for residents to provide feedback or comments on transportation programs or policies to the Transportation Department.",
+  "resident_phrases": [
+   "I have some thoughts on the new parking rules.",
+   "Can I share my feedback about traffic changes?",
+   "I want to comment on the bike lanes.",
+   "Is there a way to give suggestions for traffic policies?"
+  ]
+ },
+ "Street Light Knock Downs": {
+  "description": "This request type is for reporting street lights that have been knocked down or damaged, allowing the Public Works Department to address the issue.",
+  "resident_phrases": [
+   "One of the street lights is down!",
+   "There's a knocked down light on my street.",
+   "Can you fix the street light that got hit?",
+   "I saw a street light that needs to be replaced."
+  ]
+ },
+ "BWSC General Request": {
+  "description": "This request type is for general inquiries or requests related to the Boston Water & Sewer Commission. It is primarily used internally by city staff.",
+  "resident_phrases": [
+   "I have a question about water services.",
+   "Can I get more info on sewer issues?",
+   "Is there a way to ask about water quality?",
+   "I need assistance with my water bill."
+  ]
+ },
+ "Mice Infestation - Residential": {
+  "description": "This request type is for residents to report mice infestations in their homes to the Inspectional Services Department. It is used internally by city staff.",
+  "resident_phrases": [
+   "I think I have a mice problem in my apartment.",
+   "Can someone help with a mouse infestation?",
+   "There are mice in my house, what should I do?",
+   "I need to report a mice issue in my home."
+  ]
+ },
+ "Chronic Dampness/Mold": {
+  "description": "This request type allows residents to report issues of chronic dampness or mold in their homes to the Inspectional Services Department. It is used internally by city staff.",
+  "resident_phrases": [
+   "There's mold in my bathroom, can you help?",
+   "I have a dampness issue in my house.",
+   "Can someone check for mold in my apartment?",
+   "I need assistance with chronic dampness."
+  ]
+ },
+ "Missing Sign": {
+  "description": "This request type is for reporting missing signs, allowing residents to notify the Transportation Department about signs that need to be replaced.",
+  "resident_phrases": [
+   "There's a missing street sign here!",
+   "Can you replace the sign that’s gone?",
+   "I noticed a sign is missing on my street.",
+   "Where can I report a missing traffic sign?"
+  ]
+ },
+ "Short Term Rental": {
+  "description": "This type covers issues related to short term rental properties in Boston, such as complaints or inquiries about their operation.",
+  "resident_phrases": [
+   "Is there a short term rental next door?",
+   "I think my neighbor is running an Airbnb, can someone check?",
+   "How do I report a short term rental that's too loud?",
+   "Are there rules for short term rentals in my area?"
+  ]
+ },
+ "Fire Hydrant": {
+  "description": "This type is for reporting issues with fire hydrants, such as damage or accessibility problems.",
+  "resident_phrases": [
+   "There's a fire hydrant that's blocked by a car.",
+   "One of the hydrants in my neighborhood looks broken.",
+   "Can someone check the fire hydrant on my street?",
+   "I noticed a hydrant leaking water, can you fix it?"
+  ]
+ },
+ "Major System Failure": {
+  "description": "This type is for reporting significant failures in public infrastructure, like street lights or gas leaks.",
+  "resident_phrases": [
+   "The street lights are out on my block, it's really dark.",
+   "There's a gas leak near my house, please send help!",
+   "I think there's a major issue with the street lights downtown.",
+   "Can someone look into the gas smell in my area?"
+  ]
+ },
+ "Protection of Adjoining Property": {
+  "description": "This type is for internal use by city staff to address concerns about protecting neighboring properties during construction or other activities.",
+  "resident_phrases": [
+   "I’m worried about my neighbor’s construction affecting my property.",
+   "Can someone check if my neighbor's work is safe for my house?",
+   "Is there a way to ensure my property is protected during the renovations next door?",
+   "I heard construction can damage nearby homes, what can I do?"
+  ]
+ },
+ "Sidewalk Cover / Manhole": {
+  "description": "This type is for reporting issues with sidewalk covers or manholes, such as damage or hazards.",
+  "resident_phrases": [
+   "There's a manhole cover that's loose and making noise.",
+   "I tripped over a sidewalk cover, can you fix it?",
+   "The manhole on my street is missing, it's dangerous!",
+   "Can someone check the sidewalk cover near the park?"
+  ]
+ },
+ "Food Alert - Confirmed": {
+  "description": "This type is for internal use by city staff to address confirmed food safety issues, such as unsanitary conditions in food establishments.",
+  "resident_phrases": [
+   "I saw some unsanitary conditions at a restaurant, who do I tell?",
+   "Is there a way to report a food safety issue I noticed?",
+   "I think a local eatery is not following health codes, what should I do?",
+   "Can someone investigate a food place that looks dirty?"
+  ]
+ },
+ "Park Improvement Requests": {
+  "description": "This type is for residents to request improvements or maintenance in parks, such as new equipment or landscaping.",
+  "resident_phrases": [
+   "Can we get more benches in the park?",
+   "The playground needs some repairs, can you help?",
+   "I’d love to see more flowers planted in the park.",
+   "Is there a way to suggest new equipment for the playground?"
+  ]
+ },
+ "Unsanitary Conditions - Food": {
+  "description": "This type is for internal use by city staff to address unsanitary conditions related to food establishments.",
+  "resident_phrases": [
+   "I saw some really dirty conditions at a food truck, can you check it out?",
+   "There's a restaurant that looks unsanitary, who do I contact?",
+   "I think a local cafe needs a health inspection, what should I do?",
+   "Can someone look into a food place that seems unclean?"
+  ]
+ },
+ "Illegal Vending": {
+  "description": "This type is for reporting illegal vending activities that violate city regulations.",
+  "resident_phrases": [
+   "There's someone selling food on the street without a permit.",
+   "I saw a vendor setting up in a no-vending zone, can you check?",
+   "Can you investigate the illegal vending happening downtown?",
+   "I think there's a vendor breaking the rules near my house."
+  ]
+ },
+ "Parks Lighting/Electrical Issues": {
+  "description": "This type is for reporting lighting or electrical issues in parks, such as broken lights or power outages.",
+  "resident_phrases": [
+   "The lights in the park are out, it's really dark at night.",
+   "Can someone fix the broken lights at Brophy Park?",
+   "I noticed some electrical issues in the playground, can you help?",
+   "The park needs better lighting, it's unsafe after dark."
+  ]
+ },
+ "Unsatisfactory Utilities - Electrical  Plumbing": {
+  "description": "This type is used for internal tracking of issues related to unsatisfactory electrical or plumbing utilities in housing. It helps city staff manage and resolve complaints about utility services.",
+  "resident_phrases": [
+   "The plumbing in my building isn't working right.",
+   "There's an electrical issue in my apartment.",
+   "My utilities have been really unreliable lately.",
+   "Can someone check the plumbing in my unit?"
+  ]
+ },
+ "Construction Debris": {
+  "description": "This request type is for reporting construction debris that may be obstructing public spaces or causing hazards. It helps ensure that construction sites are kept clean and safe for residents.",
+  "resident_phrases": [
+   "There's a pile of construction debris on my street.",
+   "Can you clean up the construction mess near my house?",
+   "I saw some debris left over from a construction site.",
+   "There's junk from a building project blocking the sidewalk."
+  ]
+ },
+ "General Comments For An Employee": {
+  "description": "This type is for residents to provide feedback, compliments, or comments about Public Works employees. It helps the department understand community sentiments and improve services.",
+  "resident_phrases": [
+   "I just wanted to say thanks to the crew for their hard work!",
+   "Can you pass on my appreciation to the sanitation team?",
+   "I have some feedback about the trash pickup service.",
+   "One of your workers was really helpful today!"
+  ]
+ },
+ "Traffic Signal Repair": {
+  "description": "This request type is for reporting issues with traffic signals that need repair. It helps ensure that traffic signals are functioning properly for the safety of all road users.",
+  "resident_phrases": [
+   "The traffic light at Main and 1st is out.",
+   "Can you fix the broken traffic signal on my route?",
+   "There's a signal that's not working properly near my house.",
+   "I noticed a traffic light that's stuck on red."
+  ]
+ },
+ "Maintenance - Homeowner": {
+  "description": "This type is used internally for tracking maintenance issues reported by homeowners. It helps city staff manage and address maintenance concerns effectively.",
+  "resident_phrases": [
+   "I need help with some maintenance issues at my home.",
+   "Can someone come check on my roof?",
+   "There's a maintenance problem in my house that needs attention.",
+   "I have a few things that need fixing around my place."
+  ]
+ },
+ "Utility Casting Repair": {
+  "description": "This request type is for reporting issues with utility castings that may be damaged or in need of repair. It helps maintain safe road conditions and utility access.",
+  "resident_phrases": [
+   "There's a utility cover that's broken on my street.",
+   "Can you fix the loose utility casting near my house?",
+   "I saw a damaged utility casting that needs repair.",
+   "There's a problem with the utility cover on my block."
+  ]
+ },
+ "General Traffic Engineering Request": {
+  "description": "This type is for residents to submit requests related to traffic engineering, such as new signs or pavement markings. It helps improve traffic management in the city.",
+  "resident_phrases": [
+   "Can we get a stop sign at the corner of 5th and Main?",
+   "I think we need better markings on this busy street.",
+   "There's a need for a crosswalk near the park.",
+   "Can you look into adding more signage in our neighborhood?"
+  ]
+ },
+ "Space Savers": {
+  "description": "This request type is for reporting space savers that are being used improperly or need to be removed. It helps keep public parking spaces accessible for all residents.",
+  "resident_phrases": [
+   "There are space savers blocking parking spots on my street.",
+   "Can you remove the space savers that are still out?",
+   "I saw some space savers that shouldn't be there anymore.",
+   "There's a space saver that's been up for too long."
+  ]
+ },
+ "Parking on Front/Back Yards (Illegal Parking)": {
+  "description": "This type is for reporting illegal parking on front or back yards. It helps enforce parking regulations and maintain neighborhood aesthetics.",
+  "resident_phrases": [
+   "Someone is parking on my front lawn again.",
+   "Can you do something about the car parked in the backyard?",
+   "There's a car on my property that shouldn't be there.",
+   "I keep seeing cars parked on the grass in my neighborhood."
+  ]
+ },
+ "Work Hours-Loud Noise Complaints": {
+  "description": "This request type is for reporting loud noise complaints during work hours. It helps address noise disturbances that may affect residents' quality of life.",
+  "resident_phrases": [
+   "There's a lot of noise from construction next door.",
+   "Can you check on the loud work happening in my area?",
+   "I can't concentrate because of the noise from the site nearby.",
+   "There's some really loud work going on during the day."
+  ]
+ },
+ "Food Alert - Unconfirmed": {
+  "description": "This type is used by city staff to investigate reports of unsanitary conditions related to food establishments. If you suspect a food-related health issue, please report it here.",
+  "resident_phrases": [
+   "I think there's something off with the food at that restaurant.",
+   "Can someone check if that food truck is safe?",
+   "I saw some unsanitary conditions at a local cafe.",
+   "There might be a health issue with a food place nearby."
+  ]
+ },
+ "Pavement Marking Inspection": {
+  "description": "This request type is for residents to report the need for inspection of pavement markings, such as crosswalks and lane lines, to ensure they are visible and safe.",
+  "resident_phrases": [
+   "The crosswalks near my street need a look.",
+   "Can someone check the lane markings on Main Street?",
+   "The paint on the road is fading, can you inspect it?",
+   "I noticed the lines on the road are hard to see."
+  ]
+ },
+ "Parks General Request": {
+  "description": "This type is for general requests related to parks, including maintenance and equipment repairs. Residents can report issues or request improvements in local parks.",
+  "resident_phrases": [
+   "The playground equipment at the park is broken.",
+   "Can we get some maintenance done at Ronan Park?",
+   "There's a lot of trash at the Back Bay Fens.",
+   "The grass in the park needs some care."
+  ]
+ },
+ "Illegal Occupancy": {
+  "description": "This type is used by city staff to address reports of illegal occupancy in buildings. If you suspect someone is living in a property without proper authorization, please report it here.",
+  "resident_phrases": [
+   "I think someone is living in that vacant building.",
+   "There might be illegal tenants in my neighbor's house.",
+   "Can you check if that house is being occupied illegally?",
+   "I saw people coming and going from an empty property."
+  ]
+ },
+ "Exceeding Terms of Permit": {
+  "description": "This request type is for city staff to handle reports of properties exceeding the terms of their permits. If you notice any violations, please report them here.",
+  "resident_phrases": [
+   "I think that construction site is going beyond its permit.",
+   "Can someone check if that business is following its permit rules?",
+   "There seems to be too much activity at that location.",
+   "I saw some work happening that looks like it’s not allowed."
+  ]
+ },
+ "Illegal Posting of Signs": {
+  "description": "This type is for residents to report illegal postings of signs in public spaces. If you see unauthorized signs, please let us know.",
+  "resident_phrases": [
+   "There are a bunch of signs up that shouldn't be there.",
+   "Can you take down those flyers on the lamppost?",
+   "I saw some illegal signs around the neighborhood.",
+   "There’s a sign on my street that looks out of place."
+  ]
+ },
+ "Illegal Rooming House": {
+  "description": "This type is used by city staff to investigate reports of illegal rooming houses. If you suspect a property is being used improperly for lodging, please report it here.",
+  "resident_phrases": [
+   "I think that house is being rented out illegally.",
+   "Can someone check if there are too many tenants in that building?",
+   "There seems to be a lot of people living in that house.",
+   "I suspect that place is an illegal rooming house."
+  ]
+ },
+ "Animal Noise Disturbances": {
+  "description": "This type is for residents to report disturbances caused by loud animals, such as barking dogs. If you're experiencing noise issues, please let us know.",
+  "resident_phrases": [
+   "My neighbor's dog won't stop barking at night.",
+   "There's a loud animal making noise outside.",
+   "Can you help with the noise from that barking dog?",
+   "I can't sleep because of the noise from a pet nearby."
+  ]
+ },
+ "Illegal Auto Body Shop": {
+  "description": "This request type is for residents to report illegal auto body shops operating without proper permits. If you see suspicious auto repair activities, please report them.",
+  "resident_phrases": [
+   "I think there's an auto shop running without a license.",
+   "Can someone check that garage? It looks like an illegal body shop.",
+   "There are cars being repaired in a residential area.",
+   "I saw some shady auto repairs happening down the street."
+  ]
+ },
+ "Cross Metering - Sub-Metering": {
+  "description": "This type is used by city staff to address issues related to cross metering or sub-metering in housing. If you suspect improper metering, please report it here.",
+  "resident_phrases": [
+   "I think my utilities are being metered incorrectly.",
+   "Can someone check the meters in my building?",
+   "There seems to be an issue with how utilities are billed here.",
+   "I suspect there’s cross metering happening in my apartment."
+  ]
+ },
+ "Request for Litter Basket Installation": {
+  "description": "This request type is for residents who want to have a litter basket installed in their neighborhood to help keep the area clean. It's a great way to encourage proper waste disposal and improve public spaces.",
+  "resident_phrases": [
+   "Can we get a litter basket over by the park?",
+   "I think we need more trash bins around here!",
+   "Is it possible to install a litter basket near the playground?",
+   "There’s a lot of litter in my area; can we get a basket?"
+  ]
+ },
+ "Knockdown Replacement": {
+  "description": "This request type is for reporting damaged street lights that have been knocked down and need to be replaced. It's important for safety and visibility on the streets.",
+  "resident_phrases": [
+   "The street light on my corner is down, can you fix it?",
+   "There’s a knocked down light on Main Street, please replace it!",
+   "I noticed a street light is missing; can we get it replaced?",
+   "Can someone check on the knocked down light near my house?"
+  ]
+ },
+ "Automotive Noise Disturbance": {
+  "description": "This request type is for residents experiencing excessive noise from vehicles, such as loud engines or music. It helps the city address noise disturbances in neighborhoods.",
+  "resident_phrases": [
+   "There’s a car making a ton of noise outside my window!",
+   "Can you do something about the loud cars on my street?",
+   "I can’t sleep because of the noise from vehicles; it’s too much!",
+   "There’s a lot of automotive noise around here; it’s really bothering me."
+  ]
+ },
+ "Student Move-in Issues": {
+  "description": "This request type is for residents facing problems related to student move-ins, such as noise or parking issues. It helps address concerns during the busy moving season.",
+  "resident_phrases": [
+   "There’s a lot of noise from students moving in next door!",
+   "Can someone help with the parking issues during move-in?",
+   "I’m having trouble with the students moving in; it’s chaotic!",
+   "The move-in traffic is crazy; can we get some help?"
+  ]
+ },
+ "BWSC Pothole": {
+  "description": "This request type is for reporting potholes that need to be repaired by the Boston Water & Sewer Commission. Potholes can cause damage to vehicles and pose safety hazards.",
+  "resident_phrases": [
+   "There’s a huge pothole on my street; can you fix it?",
+   "I hit a pothole and it’s really bad; please take care of it!",
+   "Can someone check the pothole on Elm Street?",
+   "There’s a deep pothole that needs urgent attention!"
+  ]
+ },
+ "Bed Bugs": {
+  "description": "This request type is for reporting bed bug infestations in residential properties. It helps the city address housing issues related to pests.",
+  "resident_phrases": [
+   "I think I have a bed bug problem in my apartment!",
+   "Can someone come check for bed bugs?",
+   "There are bed bugs in my building; it’s really bad!",
+   "I need help with a bed bug issue; what should I do?"
+  ]
+ },
+ "Egress": {
+  "description": "This request type is for internal use by city staff to address issues related to building egress, such as exits and safety compliance. It is not for public requests.",
+  "resident_phrases": []
+ },
+ "Litter Basket Maintenance": {
+  "description": "This request type is for reporting issues with existing litter baskets, such as overflowing or damaged bins. It helps keep public spaces clean and functional.",
+  "resident_phrases": [
+   "The litter basket on my street is overflowing; can you empty it?",
+   "Can someone fix the broken litter basket near the park?",
+   "The trash bin is full and needs maintenance!",
+   "There’s a litter basket that’s been damaged; can it be repaired?"
+  ]
+ },
+ "Squalid Living Conditions": {
+  "description": "This request type is for reporting extremely poor living conditions in residential properties. It is used internally by city staff to address serious housing issues.",
+  "resident_phrases": []
+ },
+ "No Utilities Residential - Water": {
+  "description": "This request type is for reporting residential properties without water utilities. It is used internally by city staff to address urgent housing issues.",
+  "resident_phrases": []
+ },
+ "Overflowing or Un-kept Dumpster": {
+  "description": "This type covers reports of dumpsters that are overflowing or not being maintained properly, which can lead to unsightly and unsanitary conditions.",
+  "resident_phrases": [
+   "The dumpster near my building is overflowing again!",
+   "Can someone please clean up that messy dumpster?",
+   "That dumpster on the corner is a disaster, it needs attention.",
+   "There's trash spilling out of the dumpster, can we get it fixed?"
+  ]
+ },
+ "Abandoned Building": {
+  "description": "This type is for reporting buildings that appear to be abandoned, which can pose safety and security risks. Note that this request type is used internally by city staff.",
+  "resident_phrases": [
+   "There's an abandoned building down the street, it's been empty for ages.",
+   "Can someone check out that old building? It looks abandoned.",
+   "That place has been vacant forever, it’s starting to look sketchy.",
+   "I think there's an abandoned house nearby, can we do something about it?"
+  ]
+ },
+ "Undefined Noise Disturbance": {
+  "description": "This type is for reporting noise disturbances that are not clearly defined, allowing residents to seek help for various noise issues.",
+  "resident_phrases": [
+   "There's a weird noise coming from somewhere, can you help?",
+   "I can't figure out where that loud noise is coming from!",
+   "Something's making a lot of noise outside, it's really bothering me.",
+   "Can you send someone to check out this noise? It's driving me crazy!"
+  ]
+ },
+ "Plumbing": {
+  "description": "This type is for reporting plumbing issues that need inspection or assistance, ensuring that residents have access to necessary repairs.",
+  "resident_phrases": [
+   "I have a plumbing issue that needs fixing, can someone come out?",
+   "There's a leak in my apartment, can you send someone?",
+   "My sink is clogged and I need help with it.",
+   "Can you send a plumber? My toilet isn't working right."
+  ]
+ },
+ "Tree in Park": {
+  "description": "This type is for reporting issues related to trees located in parks, such as fallen branches or trees that need maintenance.",
+  "resident_phrases": [
+   "There's a tree down in the park, can someone take care of it?",
+   "Can you check on that tree in the playground? It looks unhealthy.",
+   "The branches in the park are getting too low, can they be trimmed?",
+   "I noticed a tree in the park that needs some attention."
+  ]
+ },
+ "No Utilities Residential - Electricity": {
+  "description": "This type is for reporting residential properties without electricity, which is a critical issue. Note that this request type is used internally by city staff.",
+  "resident_phrases": [
+   "My neighbor hasn't had electricity for days, can someone help?",
+   "There's a house nearby with no power, it's concerning.",
+   "I think someone is living without electricity, can we check on them?",
+   "Can you look into that house with no electricity? It seems abandoned."
+  ]
+ },
+ "Trash on Vacant Lot": {
+  "description": "This type covers reports of trash accumulating on vacant lots, which can create health and safety hazards.",
+  "resident_phrases": [
+   "There's a lot of trash piling up on that vacant lot, can it be cleaned?",
+   "That empty lot is a mess, can someone pick up the garbage?",
+   "Can we do something about the trash on the vacant lot? It's getting worse.",
+   "The vacant lot near me is full of trash, it needs attention."
+  ]
+ },
+ "No-Tow Complaint Confirmation": {
+  "description": "This type is for confirming no-tow complaints, which is an administrative request used by city staff.",
+  "resident_phrases": [
+   "I want to confirm my no-tow complaint, can you help?",
+   "Can you let me know if my no-tow request went through?",
+   "I filed a no-tow complaint, just checking if it's been processed.",
+   "Can I get an update on my no-tow complaint?"
+  ]
+ },
+ "Unsanitary Conditions - Employees": {
+  "description": "This type is for reporting unsanitary conditions affecting employees, which is an internal request for city staff to address.",
+  "resident_phrases": [
+   "I've noticed some unsanitary conditions at a workplace, can it be reported?",
+   "There are cleanliness issues at a local business, can someone check it out?",
+   "Can we look into the hygiene standards at that place? It's concerning.",
+   "I think the employees at that location are working in unsanitary conditions."
+  ]
+ },
+ "Notification": {
+  "description": "This type is for internal notifications regarding various city services, such as sewer overflows or water main breaks, and is used by city staff.",
+  "resident_phrases": [
+   "I heard about a water main break, can you confirm?",
+   "Is there a notification for the sewer issue in my area?",
+   "Can I get updates on any service notifications?",
+   "I want to know if there are any alerts about water issues nearby."
+  ]
+ },
+ "StreetLight Pole WO": {
+  "description": "This request type is for reporting issues related to street light poles, such as damage or maintenance needs. Residents can use this to ensure their neighborhood lighting is safe and functional.",
+  "resident_phrases": [
+   "The street light on my corner is out again.",
+   "Can someone check the light pole on Main Street?",
+   "There's a broken street light near my house.",
+   "The street light is flickering and needs fixing."
+  ]
+ },
+ "Sewage/Septic Back-Up": {
+  "description": "This request type is for reporting sewage or septic system backups in residential areas. It's important for residents to report these issues to prevent health hazards and property damage.",
+  "resident_phrases": [
+   "I think there's a sewage backup in my basement.",
+   "My toilet won't flush and there's a bad smell.",
+   "There's sewage coming up in my yard, help!",
+   "Can someone check the septic system at my place?"
+  ]
+ },
+ "Bicycle Issues": {
+  "description": "This request type is for reporting various issues related to bicycles, including safety concerns, theft, or maintenance of bike lanes. Residents can use this to improve biking conditions in Boston.",
+  "resident_phrases": [
+   "The bike lane on Elm Street is blocked by debris.",
+   "Someone stole my bike from the rack!",
+   "Can we get more bike racks around here?",
+   "There’s a pothole in the bike lane that needs fixing."
+  ]
+ },
+ "Fire in Food Establishment": {
+  "description": "This request type is for reporting fires in food establishments. It is primarily used by city staff for internal tracking and response to fire incidents.",
+  "resident_phrases": [
+   "I saw smoke coming from a restaurant on Main Street!",
+   "There's a fire at the cafe down the block!",
+   "The kitchen at the diner is on fire!",
+   "Can someone call the fire department for the food place?"
+  ]
+ },
+ "Cemetery Maintenance Request": {
+  "description": "This request type is for residents to report maintenance needs in cemeteries, such as overgrown grass or damaged headstones. It helps ensure that these spaces are well-kept and respectful.",
+  "resident_phrases": [
+   "The grass in the cemetery needs mowing.",
+   "There’s a broken headstone that needs fixing.",
+   "Can someone clean up the flowers at the cemetery?",
+   "The path in the cemetery is really overgrown."
+  ]
+ },
+ "Pole Compliance": {
+  "description": "This request type is for reporting compliance issues related to street light poles. It is used internally by city staff to ensure that poles meet safety and regulatory standards.",
+  "resident_phrases": [
+   "Is that light pole up to code?",
+   "Can someone check if the pole is compliant?",
+   "There’s a pole that looks unsafe on my street.",
+   "I think the street light pole needs inspection."
+  ]
+ },
+ "Request for Snow Plowing (Emergency Responder)": {
+  "description": "This request type is for emergency responders to request snow plowing services during severe weather conditions. It ensures that emergency routes remain clear and accessible.",
+  "resident_phrases": [
+   "We need snow plowing on my street ASAP!",
+   "The roads are really bad, can we get plowed?",
+   "Emergency services need access, please clear the snow.",
+   "There's too much snow for cars to get through!"
+  ]
+ },
+ "Zoning": {
+  "description": "This request type is for internal use by city staff to address zoning issues. It is not intended for public requests but rather for administrative tracking and compliance.",
+  "resident_phrases": [
+   "I have a question about zoning in my area.",
+   "Can someone explain the zoning rules here?",
+   "Is there a zoning issue with that new building?",
+   "I heard there are changes to zoning regulations."
+  ]
+ },
+ "Parking Meter Repairs": {
+  "description": "This request type is for reporting broken parking meters. Residents can use this to ensure that parking meters are functioning properly and to avoid parking violations.",
+  "resident_phrases": [
+   "The parking meter on my street is broken.",
+   "Can someone fix the meter at the corner?",
+   "I just got a ticket because the meter wouldn’t take my money!",
+   "There’s a meter that’s out of order near the park."
+  ]
+ },
+ "Upgrade Existing Lighting": {
+  "description": "This request type is for requesting upgrades to existing street lighting, such as brighter lights or improved fixtures. Residents can use this to enhance safety and visibility in their neighborhoods.",
+  "resident_phrases": [
+   "The street lights are too dim, can we upgrade them?",
+   "Can we get brighter lights on my street?",
+   "The lighting here is terrible, it needs an upgrade.",
+   "I’d like to request better lighting for our neighborhood."
+  ]
+ },
+ "Rooftop & Mechanical Disturbances": {
+  "description": "This type covers issues related to disturbances from rooftop equipment or mechanical systems that may affect air quality or noise levels. Residents can report these disturbances for further investigation.",
+  "resident_phrases": [
+   "There's a loud noise coming from the rooftops around here.",
+   "I think there's some machinery causing a disturbance nearby.",
+   "Can someone check out the noise from the buildings?",
+   "It sounds like something's off with the rooftop equipment."
+  ]
+ },
+ "Rat Bite": {
+  "description": "This type is for reporting incidents of rat bites, which fall under environmental services. It's important for health and safety concerns, and the city will investigate these reports.",
+  "resident_phrases": [
+   "I just got bitten by a rat, what should I do?",
+   "There's a rat problem in my area, and it's getting dangerous.",
+   "I need to report a rat bite incident.",
+   "Can someone help with a rat bite issue?"
+  ]
+ },
+ "Overcrowding": {
+  "description": "This type addresses issues of overcrowding in housing situations. It's an internal request for inspectional services to ensure living conditions meet safety standards.",
+  "resident_phrases": [
+   "My apartment feels way too crowded, can someone check it out?",
+   "There are too many people living in my building, it's a problem.",
+   "I think we have an overcrowding issue here.",
+   "Can someone come look at the overcrowding in my unit?"
+  ]
+ },
+ "Sidewalk Repair": {
+  "description": "This type is for reporting damaged or unsafe sidewalks that need repair. Public Works will assess the situation and take necessary action to fix the sidewalk.",
+  "resident_phrases": [
+   "The sidewalk near my house is cracked and uneven.",
+   "There's a big hole in the sidewalk that needs fixing.",
+   "Can you send someone to repair the sidewalk?",
+   "The sidewalk is really dangerous to walk on right now."
+  ]
+ },
+ "Install New Lighting": {
+  "description": "This type requests the installation of new street lighting. Public Works will evaluate the request and determine the best course of action for improved visibility.",
+  "resident_phrases": [
+   "It's really dark on my street, can we get some new lights?",
+   "We need more lighting around here for safety.",
+   "Can you install new street lights in my neighborhood?",
+   "The current lights aren't bright enough, can we upgrade?"
+  ]
+ },
+ "Poor Ventilation": {
+  "description": "This type is for reporting issues related to poor ventilation in housing. It's an internal request for inspectional services to ensure proper living conditions.",
+  "resident_phrases": [
+   "My apartment is stuffy and needs better ventilation.",
+   "I think there's a ventilation problem in my building.",
+   "Can someone check the air flow in my unit?",
+   "It's hard to breathe in here, we need help with ventilation."
+  ]
+ },
+ "Roadway Flooding": {
+  "description": "This type is for reporting instances of flooding on roadways, which can be caused by heavy rain or drainage issues. The Boston Water & Sewer Commission will investigate and address the problem.",
+  "resident_phrases": [
+   "The road is flooded after the rain, can someone help?",
+   "There's a big puddle on the street that's causing issues.",
+   "Can you send someone to check the flooding on my street?",
+   "The roadway is underwater, it's unsafe to drive."
+  ]
+ },
+ "Dumpster & Loading Noise Disturbances": {
+  "description": "This type covers noise disturbances caused by dumpsters or loading activities in neighborhoods. Residents can report these disturbances for further investigation.",
+  "resident_phrases": [
+   "There's a lot of noise from the dumpsters at night.",
+   "The loading dock is really loud, can someone look into it?",
+   "Can you help with the noise from the dumpsters nearby?",
+   "It's too noisy with all the loading going on, can we do something?"
+  ]
+ },
+ "Scanning Overcharge": {
+  "description": "This type is for reporting issues related to scanning overcharges at stores, which falls under weights and measures. It's an internal request for inspectional services to investigate pricing accuracy.",
+  "resident_phrases": [
+   "I think I was overcharged at the store, can you check it out?",
+   "The scanner at the checkout charged me too much.",
+   "Can someone look into a pricing issue I had at the store?",
+   "I noticed a scanning error when I checked out, what should I do?"
+  ]
+ },
+ "City/State Snow Issues": {
+  "description": "This type is for reporting issues related to snow removal or management during winter weather. It's a general information request for the city to address snow-related concerns.",
+  "resident_phrases": [
+   "The snow hasn't been cleared on my street yet, can you help?",
+   "There's too much snow piling up, what’s being done?",
+   "Can someone update me on snow removal in my area?",
+   "The sidewalks are still covered in snow, it's hard to walk."
+  ]
+ },
+ "Misc. Snow Complaint": {
+  "description": "This type is for residents to report various snow-related issues that don't fit into specific categories. It helps the Public Works Department address snow complaints effectively.",
+  "resident_phrases": [
+   "There's a huge pile of snow blocking my driveway!",
+   "Can someone check on the snow removal on my street?",
+   "I saw a lot of snow left on the sidewalks, it's dangerous!",
+   "The snow plow missed our street completely."
+  ]
+ },
+ "Municipal Parking Lot Complaints": {
+  "description": "Residents can use this type to report issues related to municipal parking lots, such as maintenance or safety concerns. The Transportation Department will address these complaints.",
+  "resident_phrases": [
+   "The parking lot is full of potholes, it's a mess!",
+   "Can you do something about the broken lights in the parking lot?",
+   "There's trash everywhere in the municipal lot, can it be cleaned?",
+   "I saw a car parked illegally in the lot, can you check it out?"
+  ]
+ },
+ "No Utilities Residential - Gas": {
+  "description": "This type is for internal use by Inspectional Services to address cases where residential properties are without gas utilities. Residents should contact the department directly for assistance.",
+  "resident_phrases": [
+   "My gas is out, what should I do?",
+   "I haven't had gas service for days, can someone help?",
+   "Is there a way to report a gas outage in my building?",
+   "I think my neighbors are also without gas, can you check?"
+  ]
+ },
+ "Billing Complaint": {
+  "description": "Residents can report issues related to their water and sewer billing through this type. The Boston Water & Sewer Commission will investigate and resolve these complaints.",
+  "resident_phrases": [
+   "I got a bill that seems way too high, can you look into it?",
+   "There's a mistake on my water bill, what do I do?",
+   "I need help understanding my sewer charges, it's confusing!",
+   "Can someone explain why my bill increased this month?"
+  ]
+ },
+ "Bridge Maintenance": {
+  "description": "This type is for reporting maintenance issues related to bridges. The Public Works Department will address concerns to ensure safety and functionality.",
+  "resident_phrases": [
+   "The bridge near my house has some cracks, can it be fixed?",
+   "I noticed some rust on the bridge, is that a problem?",
+   "Can you check the bridge for any safety issues?",
+   "There's debris on the bridge that needs to be cleared."
+  ]
+ },
+ "Rental Unit Delivery Conditions": {
+  "description": "This type is for internal use by Inspectional Services to address complaints about the conditions of rental unit deliveries. Residents should contact the department directly for assistance.",
+  "resident_phrases": [
+   "My new apartment wasn't clean when I moved in, what can I do?",
+   "The delivery conditions for my rental were terrible, can I report this?",
+   "I had issues with my move-in inspection, who should I talk to?",
+   "The place was not ready when I arrived, can someone help?"
+  ]
+ },
+ "Aircraft Noise Disturbance": {
+  "description": "Residents can report disturbances caused by aircraft noise through this type. The 311 general information department will gather these complaints for further action.",
+  "resident_phrases": [
+   "The planes are really loud over my house, can you do something?",
+   "I can't sleep because of the noise from the planes, it's too much!",
+   "Is there a way to report the aircraft noise in my area?",
+   "The noise from the airport is getting worse, can you help?"
+  ]
+ },
+ "Pigeon Infestation": {
+  "description": "This type is for reporting issues related to pigeon infestations. The Environmental Services department will address these complaints to help manage the situation.",
+  "resident_phrases": [
+   "There are too many pigeons in my area, it's a problem!",
+   "Can someone do something about the pigeon mess in the park?",
+   "I think there's a pigeon nest on my balcony, what should I do?",
+   "The pigeons are everywhere, it's getting out of hand!"
+  ]
+ },
+ "Planting": {
+  "description": "This type is for requesting planting services or reporting issues related to plant maintenance in parks. The Parks & Recreation Department will handle these requests.",
+  "resident_phrases": [
+   "Can we get some new flowers planted in the park?",
+   "The trees need some care, can someone take a look?",
+   "I’d love to see more greenery in our neighborhood, can you help?",
+   "The plants in the playground are dying, can they be replaced?"
+  ]
+ },
+ "Occupying W/Out A Valid CO/CI": {
+  "description": "This type is for internal use by Inspectional Services to address cases where properties are occupied without a valid Certificate of Occupancy or Certificate of Inspection. Residents should contact the department directly for assistance.",
+  "resident_phrases": [
+   "I think my neighbor is living in a place without proper permits, what can I do?",
+   "Is there a way to report a building that's occupied without a CO?",
+   "I have concerns about a property nearby that seems unsafe, who should I tell?",
+   "Can someone check if the building next door has the right permits?"
+  ]
+ },
+ "Mechanical": {
+  "description": "This type is used for internal requests related to mechanical issues in buildings. It helps city staff track and manage mechanical inspections and repairs.",
+  "resident_phrases": [
+   "There's a weird noise coming from my building's heating system.",
+   "Can someone check the elevator? It's been acting up.",
+   "My AC isn't working properly, can you send someone?",
+   "I think there's a plumbing issue in my apartment."
+  ]
+ },
+ "Phone Bank Service Inquiry": {
+  "description": "This type is for inquiries related to the phone bank services provided by the Parking Clerk's office. Residents can ask questions or seek assistance regarding parking services.",
+  "resident_phrases": [
+   "How do I reach the phone bank for parking questions?",
+   "I need help with my parking permit, who do I call?",
+   "Can you give me info on the phone bank hours?",
+   "Is there a number I can call for parking issues?"
+  ]
+ },
+ "Valet Parking Problems": {
+  "description": "This type addresses issues related to valet parking services in the city. Residents can report problems or concerns they have with valet services.",
+  "resident_phrases": [
+   "The valet took too long to bring my car back.",
+   "My car was parked in a weird spot by the valet.",
+   "Can you help with a valet issue I had last night?",
+   "The valet lost my keys, what should I do?"
+  ]
+ },
+ "Item Price Missing": {
+  "description": "This type is used internally to report missing price information on items in stores. It helps ensure compliance with pricing regulations.",
+  "resident_phrases": [
+   "I noticed there's no price tag on an item at the store.",
+   "Some products are missing prices, can you check?",
+   "I saw a shelf with no prices listed, what's up with that?",
+   "There’s a sale sign but no price on the item."
+  ]
+ },
+ "Mosquitoes (West Nile)": {
+  "description": "This type is for reporting concerns about mosquitoes, particularly in relation to West Nile virus. Residents can seek information or report mosquito issues.",
+  "resident_phrases": [
+   "I've seen a lot of mosquitoes around my area lately.",
+   "Can you tell me if there are any West Nile warnings?",
+   "There are swarms of mosquitoes in my backyard, help!",
+   "What can I do about the mosquito problem in my neighborhood?"
+  ]
+ },
+ "No Utilities - Food Establishment - Water": {
+  "description": "This type is used internally to report food establishments that are without water utilities. It helps ensure health and safety compliance.",
+  "resident_phrases": [
+   "I heard a restaurant is out of water, is that true?",
+   "Can you check if a local eatery has water issues?",
+   "I think a food place nearby has no water, what should I do?",
+   "Is there a way to report a restaurant without water?"
+  ]
+ },
+ "Unit Pricing Wrong/Missing": {
+  "description": "This type is for internal reporting of incorrect or missing unit pricing on products. It helps maintain fair pricing practices in stores.",
+  "resident_phrases": [
+   "I saw a product with the wrong unit price at the store.",
+   "Some items don’t have unit prices, can you fix that?",
+   "There’s a pricing error on a shelf, can you check it out?",
+   "I noticed a product has no unit price listed."
+  ]
+ },
+ "Pickup/Clear Conduit": {
+  "description": "This type is used to request the pickup or clearing of conduits related to street lights. It helps public works manage street lighting effectively.",
+  "resident_phrases": [
+   "There's a conduit blocking the street light, can you clear it?",
+   "Can someone pick up the conduit near my house?",
+   "The street light conduit needs to be cleared, please help!",
+   "I saw a conduit that needs to be picked up by the light pole."
+  ]
+ },
+ "No Price on Gas/Wrong Price": {
+  "description": "This type is for internal reporting of missing or incorrect gas prices at fuel stations. It helps ensure compliance with pricing regulations.",
+  "resident_phrases": [
+   "I noticed the gas station has no price listed, what's going on?",
+   "The price at the pump seems wrong, can you check it?",
+   "There’s no price on the gas sign, can you look into it?",
+   "I think the gas price is incorrect at my local station."
+  ]
+ },
+ "Carbon Monoxide": {
+  "description": "This type is used internally to report carbon monoxide issues in housing. It helps ensure safety and compliance with health regulations.",
+  "resident_phrases": [
+   "I think I smell gas or something, is that carbon monoxide?",
+   "Can someone check for carbon monoxide in my building?",
+   "I’m worried about carbon monoxide levels in my apartment.",
+   "Is there a way to report a carbon monoxide alarm going off?"
+  ]
+ },
+ "No Utilities - Food Establishment - Sewer": {
+  "description": "This type is for reporting food establishments that are experiencing sewer issues and have no utilities. It is handled internally by Inspectional Services.",
+  "resident_phrases": [
+   "The restaurant on the corner has no sewer service!",
+   "Can someone check on the sewer situation at that cafe?",
+   "I think the diner is having sewer problems, no utilities!",
+   "There's a food place here with sewer issues, please help!"
+  ]
+ },
+ "Lead": {
+  "description": "This type is for reporting lead-related concerns in housing. It is managed internally by Inspectional Services.",
+  "resident_phrases": [
+   "I’m worried about lead in my apartment, can someone check?",
+   "There might be lead issues in my building, what should I do?",
+   "Can you send someone to test for lead in my unit?",
+   "I think there’s a lead problem in my home, need help!"
+  ]
+ },
+ "Requests for Directional or Roadway Changes": {
+  "description": "This type is for residents to request changes to roadways or directional signage. It is managed by the Transportation department.",
+  "resident_phrases": [
+   "Can we get a stop sign at that intersection?",
+   "I think the traffic flow needs to change on Main Street.",
+   "Could you look into adding a turn lane here?",
+   "There should be clearer signs on this road, it's confusing!"
+  ]
+ },
+ "Private Parking Lot Complaints": {
+  "description": "This type is for reporting issues related to private parking lots. It is handled by the Transportation department.",
+  "resident_phrases": [
+   "The parking lot behind my building is a mess, can someone do something?",
+   "There’s a problem with the private lot next door, it’s always full!",
+   "Can you check on the private parking situation here?",
+   "I’m having issues with the parking lot across the street."
+  ]
+ },
+ "No Utilities - Food Establishment - Flood": {
+  "description": "This type is for reporting food establishments that are experiencing flooding issues and have no utilities. It is handled internally by Inspectional Services.",
+  "resident_phrases": [
+   "The restaurant is flooded and has no utilities, please help!",
+   "There’s a flood at the cafe, they need urgent assistance!",
+   "Can someone check on the flooding at that food place?",
+   "The diner is dealing with a flood and no power, it’s bad!"
+  ]
+ },
+ "Student Overcrowding": {
+  "description": "This type is for reporting overcrowding issues in student housing. It is managed internally by Inspectional Services.",
+  "resident_phrases": [
+   "My building is way too crowded with students, can you help?",
+   "There are too many students in my apartment complex, it’s a problem!",
+   "Can someone look into the overcrowding in my area?",
+   "I think the student housing is over capacity here."
+  ]
+ },
+ "Big Buildings Recycling (INTERNAL)": {
+  "description": "This type is for internal requests related to recycling in large buildings. It is not for public use.",
+  "resident_phrases": [
+   "I need info on recycling for my big building, who do I contact?",
+   "Can someone tell me about recycling services for large complexes?",
+   "What’s the process for recycling in big buildings?",
+   "I have questions about recycling in my apartment building."
+  ]
+ },
+ "Walk-In Service Inquiry": {
+  "description": "This type is for inquiries related to walk-in services at the Parking Clerk's office. It is managed by the Transportation department.",
+  "resident_phrases": [
+   "What are the hours for walk-in services at the parking office?",
+   "Can I get information about walk-in services?",
+   "I need to know what I can do at the parking clerk's office in person.",
+   "Is there a wait for walk-in services at the parking office?"
+  ]
+ },
+ "News Boxes": {
+  "description": "This type is for reporting issues related to news boxes on the streets. It is managed by Public Works.",
+  "resident_phrases": [
+   "There’s a news box that’s fallen over, can you fix it?",
+   "The news boxes are overflowing, can someone empty them?",
+   "Can you check on the news box on my street?",
+   "There’s a broken news box here, it needs attention!"
+  ]
+ },
+ "No Utilities - Food Establishment - Electricity": {
+  "description": "This type is for reporting food establishments that are experiencing electrical issues and have no utilities. It is handled internally by Inspectional Services.",
+  "resident_phrases": [
+   "The restaurant has lost power and can't serve food, help!",
+   "There’s an electrical issue at the cafe, they need assistance!",
+   "Can someone check on the diner, they have no electricity?",
+   "The food place here is without power, it’s urgent!"
+  ]
+ },
+ "Product Short Measure": {
+  "description": "This request type is for reporting issues related to short measurements of products, typically handled internally by Inspectional Services.",
+  "resident_phrases": [
+   "I think my gas station is shorting me on fuel.",
+   "Can someone check the measurements at the store?",
+   "I feel like my product was under-measured.",
+   "Is there a way to report a short measure issue?"
+  ]
+ },
+ "Scale Not Visible": {
+  "description": "This request type is for reporting situations where a scale is not visible or accessible, and is managed internally by Inspectional Services.",
+  "resident_phrases": [
+   "I can't see the scale at the market, is that normal?",
+   "The scale at the store is hidden, can someone check?",
+   "Why can't I see the scale when I weigh my groceries?",
+   "Is there a problem with the scale visibility at the gas station?"
+  ]
+ },
+ "Capital Improvement Long Term": {
+  "description": "This request type is for long-term capital improvement projects in parks, managed by Parks & Recreation.",
+  "resident_phrases": [
+   "Can we get some upgrades to the playground?",
+   "The park needs some serious improvements, can we start a project?",
+   "I’d like to suggest some long-term changes for our local park.",
+   "Is there a plan for capital improvements in the parks?"
+  ]
+ },
+ "Short Measure - Gas": {
+  "description": "This request type is for reporting short measurements specifically related to gas, typically handled internally by Inspectional Services.",
+  "resident_phrases": [
+   "I think I got shorted on gas at the pump.",
+   "Can someone check the gas measurements at this station?",
+   "I feel like my gas tank isn’t full enough.",
+   "Is there a way to report short gas measurements?"
+  ]
+ },
+ "Water in Gas - High Priority": {
+  "description": "This request type is for urgent reports of water contamination in gas, managed internally by Inspectional Services.",
+  "resident_phrases": [
+   "I think there's water in the gas at the station, it's urgent!",
+   "Can someone check the gas quality here?",
+   "I’m worried about water in the gas, it’s a big issue!",
+   "This gas station might have a serious problem, please investigate!"
+  ]
+ },
+ "Snow/Ice Control": {
+  "description": "This request type is for reporting snow and ice control issues, managed by Public Works in North Dorchester.",
+  "resident_phrases": [
+   "The roads are really icy, can someone do something?",
+   "There’s too much snow on my street, help!",
+   "Can we get some salt down on these icy sidewalks?",
+   "The snow hasn’t been cleared here, it’s dangerous!"
+  ]
+ },
+ "Pavement Marking Maintenance": {
+  "description": "This request type is for reporting issues with pavement markings, managed by the Transportation department.",
+  "resident_phrases": [
+   "The crosswalk lines are fading, can they be repainted?",
+   "I noticed the lane markings are hard to see, can someone fix that?",
+   "Can we get the pavement markings checked on Main Street?",
+   "The stop lines are barely visible, it’s a safety issue!"
+  ]
+ },
+ "State/Cass Shelter Sites": {
+  "description": "This request type is for inquiries about shelter sites for unsheltered persons, managed by the 311 general information department.",
+  "resident_phrases": [
+   "Where can I find shelter options in the area?",
+   "Can you tell me about the nearest shelter site?",
+   "I need information on shelters, can you help?",
+   "What are the available shelter sites right now?"
+  ]
+ },
+ "Follow-Up": {
+  "description": "This request type is for internal administrative follow-ups by Inspectional Services.",
+  "resident_phrases": [
+   "I need a follow-up on my previous request, please.",
+   "Can someone update me on my case status?",
+   "I’m waiting for a follow-up, any news?",
+   "Is there a way to check on my previous request?"
+  ]
+ },
+ "Utility Call-In": {
+  "description": "This request type is for reporting utility issues, managed by Public Works.",
+  "resident_phrases": [
+   "There’s a utility issue on my street, can you send someone?",
+   "I need to report a problem with the water line.",
+   "Can someone check the power outage in my area?",
+   "There’s a leak that needs urgent attention, please help!"
+  ]
+ }
+}
