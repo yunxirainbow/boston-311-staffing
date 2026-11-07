@@ -191,7 +191,7 @@ The test set (`intake_test_set.csv`) has 45 messages:
 
 ## Team Contributions
 
-- **[name]** did Part A. This includes data cleaning, the demand forecast, the request type list and the other considerations analysis.
-- **[name]** did Part B. This includes the simulation, the optimization model, the plan comparison and the sensitivity analysis.
-- **[name]** did Part C. This includes the type cards, the retrieval and decision steps, the test set, the evaluation and the Gradio demo.
+- **Ruoxi Chen** did Part A. This includes data cleaning, the demand forecast, the request type list and the other considerations analysis.
+- **Hanyue Zhu** did Part B. This includes the simulation, the optimization model, the plan comparison and the sensitivity analysis.
+- **Weihe Pan** did Part C. This includes the type cards, the retrieval and decision steps, the test set, the evaluation and the Gradio demo.
 - All three of us worked on the final report, this README and the demo video.
