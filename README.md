@@ -24,7 +24,7 @@ The dashed arrow is a proposed next step. Ticket counts from the assistant could
 02_staffing_model.ipynb       Part B
 03_intake_assistant.ipynb     Part C
 data/                         CSV files made by Part A, and the test sets for Part C
-outputs/                      result files from Part B and Part C
+outputs/                      result files from Part B and Part C, copied from our shared Drive folder
 images/                       architecture diagram and charts
 report/                       final report
 ```
@@ -35,7 +35,7 @@ The raw 311 files are about 175 MB each, so they are not in this repo. Part A ex
 
 Run the notebooks in order, 01 then 02 then 03. Part B and Part C read the files that Part A makes.
 
-All three notebooks run in Google Colab and read data from `/content/drive/MyDrive/IE5374Project/Data/`. If the `IE5374Project` folder was shared with you, add a shortcut to it in "My Drive" first. Part C also needs an OpenAI API key. Each part below has its own steps.
+All three notebooks run in Google Colab and read data from `/content/drive/MyDrive/IE5374Project/Data/`. If the `IE5374Project` folder was shared with you, add a shortcut to it in "My Drive" first. If you do not have our shared folder, make the folder `IE5374Project/Data/` in your own My Drive and put the files from `data/` in it. Part C also needs an OpenAI API key. Each part below has its own steps.
 
 ## Part A: Data and Demand Forecast
 
@@ -84,7 +84,7 @@ Builds a month-by-month 2025 staffing plan for four Boston 311 departments (PWDx
 
 ### How to run
 - **Google Colab:** add a shortcut to the shared `IE5374Project` folder in "My Drive", open the notebook, then Runtime → Run all. Data is read from and saved to `/content/drive/MyDrive/IE5374Project/Data/`.
-- **Locally:** put the notebook and the two input CSV files in the same folder, then run all cells.
+- **Locally:** copy the two input CSV files from `data/` next to the notebook, then run all cells.
 - **Packages:** `numpy`, `pandas`, `scipy`, `matplotlib` (already installed in Colab).
 
 ### AI use
