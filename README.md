@@ -2,8 +2,8 @@
 
 IE 5374 Applied Generative AI, Module 7 Hackathon, Team 8
 
-- **Report:** `report/Team8_Hackathon_Report.pdf`
-- **Demo video:** [add link]
+- **Report:** [report/Team8_Hackathon_Report.pdf](report/Team8_Hackathon_Report.pdf)
+- **Demo video:** [Watch on Google Drive](https://drive.google.com/file/d/1kSjX3XDEYYAYla6GckAmvZLT0EcJZ4Mw/view?usp=sharing) (2:58)
 
 We plan how many field crews four City of Boston departments need in each month of 2025. The four departments are Public Works, Transportation, Parks and Recreation, and Inspectional Services. We use real 311 request data from 2023 and 2024.
 
